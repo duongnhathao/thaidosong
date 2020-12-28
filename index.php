@@ -17,7 +17,7 @@
     <meta property="og:image" content="img/portfolio/1.jpg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-    <meta name="twitter:title" content="TRANG CHỦ">
+    <meta name="twitter:title" content="Thái độ sống 3 - Ba Chấm Team - Trang chủ">
     <meta name="twitter:description" content="Life Skills: Thái Độ Sống 3 - Ba Chấm Team">
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -642,3 +642,4 @@
 </html>
 
 
+    
