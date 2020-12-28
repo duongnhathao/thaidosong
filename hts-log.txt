@@ -39,3 +39,13 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 21:33:52	Warning: 	File has moved from https://www.youtube.com/android-app://com.google.android.youtube/http/www.youtube.com/ to https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com
 21:33:52	Warning: 	See Other for https://www.youtube.com/ios-app://544007664/vnd.youtube/www.youtube.com/
 21:33:52	Warning: 	File has moved from https://www.youtube.com/ios-app://544007664/vnd.youtube/www.youtube.com/ to https://www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com
+21:41:22	Warning: 	Moved Permanently for https://www.youtube.com/yt/dev/
+21:41:22	Warning: 	File has moved from https://www.youtube.com/yt/dev/ to https://developers.google.com/youtube
+21:42:32	Warning: 	Moved Permanently for https://www.youtube.com/yt/about/policies/
+21:42:32	Warning: 	File has moved from https://www.youtube.com/yt/about/policies/ to https://www.youtube.com/about/policies/
+21:42:36	Warning: 	Moved Permanently for https://www.youtube.com/intl/en/yt/about/press/
+21:42:36	Warning: 	File has moved from https://www.youtube.com/intl/en/yt/about/press/ to https://www.youtube.com/intl/en/about/press/
+21:42:39	Warning: 	Moved Permanently for https://www.youtube.com/yt/creators/benefits/
+21:42:39	Warning: 	File has moved from https://www.youtube.com/yt/creators/benefits/ to https://www.youtube.com/creators/benefits/
+21:42:44	Warning: 	Moved Permanently for https://www.youtube.com/yt/advertise/
+21:42:44	Warning: 	File has moved from https://www.youtube.com/yt/advertise/ to https://www.youtube.com/ads/
