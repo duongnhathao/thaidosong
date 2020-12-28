@@ -5,6 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <link rel="shortcut icon" href="img/portfolio/icon.png">
     <title>Life Skills: Thái Độ Sống 3 - Ba Chấm Team | Trang chủ </title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -536,13 +537,13 @@
                     <div class="socail_links">
                         <ul>
                             <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" href="#"> <i
-                                            class="fa fa-facebook"></i> </a></li>
+                                        class="fa fa-facebook"></i> </a></li>
                             <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s" href="#"> <i
-                                            class="fa fa-twitter"></i> </a></li>
+                                        class="fa fa-twitter"></i> </a></li>
                             <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" href="#"> <i
-                                            class="fa fa-instagram"></i> </a></li>
+                                        class="fa fa-instagram"></i> </a></li>
                             <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" href="#"> <i
-                                            class="fa fa-google-plus"></i> </a></li>
+                                        class="fa fa-google-plus"></i> </a></li>
                         </ul>
                     </div>
                 </div>
@@ -559,7 +560,7 @@
                         Copyright &copy;<script>document.write(new Date().getFullYear());</script>
                         All rights reserved | This template is made with <i class="fa fa-heart-o"
                                                                             aria-hidden="true"></i> by <a
-                                href="../../../colorlib.com/index.php" target="_blank">Colorlib</a>
+                            href="../../../colorlib.com/index.php" target="_blank">Colorlib</a>
 
                     </p>
                 </div>
@@ -641,3 +642,4 @@
 </html>
 
 
+    

@@ -5,6 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <link rel="shortcut icon" href="img/portfolio/icon.png">
     <title>Life Skills: Thái Độ Sống 3 - Ba Chấm Team | Trang chủ </title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
