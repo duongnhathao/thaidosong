@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 28 Dec 2020 21:18:21 at https://preview.colorlib.com/theme/startup2/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://preview.colorlib.com/theme/startup2/ -O1 "C:\xampp\htdocs\TDS3\TDS3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:18:57	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/startup2/Portfolio.html (from https://preview.colorlib.com/theme/startup2/)
+21:19:13	Warning: 	file not stored in cache due to bogus state (incomplete type with No Content (204), size 0): https://www.youtube.com/error_204?t=jserror&level=ERROR
+21:19:21	Warning: 	file not stored in cache due to bogus state (incomplete type with No Content (204), size 0): https://www.youtube.com/null
+21:19:53	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/startup2/css/owl.video.play.png (from https://preview.colorlib.com/theme/startup2/css/owl.carousel.min.css)
+21:19:54	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/startup2/css/Flaticon.svg (from https://preview.colorlib.com/theme/startup2/css/flaticon.css)
+21:19:54	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/startup2/img/slider/slider-img-1.jpg (from https://preview.colorlib.com/theme/startup2/css/style.css)
+21:19:54	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/startup2/img/background-img/bg-img-2.jpg (from https://preview.colorlib.com/theme/startup2/css/style.css)
+21:19:54	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/startup2/img/background-img/bg-img-3.jpg (from https://preview.colorlib.com/theme/startup2/css/style.css)
+21:19:54	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/startup2/img/ilstrator_img/check.svg (from https://preview.colorlib.com/theme/startup2/css/style.css)
+21:19:54	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/startup2/img/banner/bradcam_4.png (from https://preview.colorlib.com/theme/startup2/css/style.css)
+21:19:54	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/startup2/img/banner/emergency-1.png (from https://preview.colorlib.com/theme/startup2/css/style.css)
+21:19:54	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/startup2/img/banner/emergency-2.png (from https://preview.colorlib.com/theme/startup2/css/style.css)
+21:19:54	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/startup2/css/animate.css (from https://preview.colorlib.com/theme/startup2/blog.html)
+21:19:54	Error: 	"No Content" (204) at link https://www.youtube.com/error_204?t=jserror&level=ERROR (from https://www.youtube.com/watch?v=D7tF-cY2M9o)
+21:19:54	Error: 	"No Content" (204) at link https://www.youtube.com/null (from https://www.youtube.com/watch?v=D7tF-cY2M9o)
+21:19:59	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com/watch?v=D7tF-cY2M9o (from https://www.youtube.com/watch?v=D7tF-cY2M9o)
+21:20:19	Warning: 	Found for https://www.youtube.com/about/press/
+21:20:19	Warning: 	File has moved from https://www.youtube.com/about/press/ to https://blog.youtube/press/
+21:20:22	Warning: 	Found for https://www.youtube.com/about/copyright/
+21:20:22	Warning: 	File has moved from https://www.youtube.com/about/copyright/ to https://www.youtube.com/howyoutubeworks/policies/copyright/
+21:21:15	Warning: 	Found for https://www.youtube.com/about/policies/
+21:21:15	Warning: 	File has moved from https://www.youtube.com/about/policies/ to https://www.youtube.com/howyoutubeworks/policies/community-guidelines/
+21:21:31	Error: 	"Not Found" (404) at link https://www.youtube.com/async_attach_app_loader.js (from https://www.youtube.com/watch?v=D7tF-cY2M9o)
+21:23:04	Warning: 	Moved Permanently for https://colorlib.com/wp/forums/
+21:23:04	Warning: 	File has moved from https://colorlib.com/wp/forums/ to https://forums.colorlib.com/
+21:23:16	Warning: 	Link https://colorlib.com/checkout/my-account/ not scanned (follow robots meta tag)
+21:32:16	Error: 	"Not Found" (404) at link https://colorlib.com/wp/forums (from https://colorlib.com/)
+21:32:33	Error: 	"Not Found" (404) at link https://colorlib.com/wp/wp-content/themes/colorlib-v2/js/cb.js (from https://colorlib.com/)
+21:32:33	Error: 	"Not Found" (404) at link https://www.youtube.com/imgbin/www-hitchhiker.png (from https://www.youtube.com/s/player/5dd3f3b2/www-player.css)
+21:33:52	Warning: 	See Other for https://www.youtube.com/android-app://com.google.android.youtube/http/www.youtube.com/
+21:33:52	Warning: 	File has moved from https://www.youtube.com/android-app://com.google.android.youtube/http/www.youtube.com/ to https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com
+21:33:52	Warning: 	See Other for https://www.youtube.com/ios-app://544007664/vnd.youtube/www.youtube.com/
+21:33:52	Warning: 	File has moved from https://www.youtube.com/ios-app://544007664/vnd.youtube/www.youtube.com/ to https://www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com
