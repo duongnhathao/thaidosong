@@ -99,7 +99,7 @@
                 <div class="col-lg-10 col-md-10">
                     <div class="slider_text">
                         <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
-                            Kinh nghiệm về nghề nghiệm Hướng dẫn viên
+                            Kinh nghiệm về nghề nghiệp Hướng dẫn viên
 
                         </h3>
                         <a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s"
@@ -536,13 +536,13 @@
                     <div class="socail_links">
                         <ul>
                             <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" href="#"> <i
-                                        class="fa fa-facebook"></i> </a></li>
+                                            class="fa fa-facebook"></i> </a></li>
                             <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s" href="#"> <i
-                                        class="fa fa-twitter"></i> </a></li>
+                                            class="fa fa-twitter"></i> </a></li>
                             <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" href="#"> <i
-                                        class="fa fa-instagram"></i> </a></li>
+                                            class="fa fa-instagram"></i> </a></li>
                             <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" href="#"> <i
-                                        class="fa fa-google-plus"></i> </a></li>
+                                            class="fa fa-google-plus"></i> </a></li>
                         </ul>
                     </div>
                 </div>
@@ -559,7 +559,7 @@
                         Copyright &copy;<script>document.write(new Date().getFullYear());</script>
                         All rights reserved | This template is made with <i class="fa fa-heart-o"
                                                                             aria-hidden="true"></i> by <a
-                            href="../../../colorlib.com/index.php" target="_blank">Colorlib</a>
+                                href="../../../colorlib.com/index.php" target="_blank">Colorlib</a>
 
                     </p>
                 </div>
