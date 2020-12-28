@@ -188,7 +188,7 @@
             <div class="col-lg-8 col-md-12">
                 <div class="single_Portfolio wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
                     <div class="portfolio_thumb">
-                        <img src="img/portfolio/1.png" alt="">
+                        <img src="img/portfolio/1.jpg" alt="">
                     </div>
                     <div class="portfolio_hover">
                         <div class="title">

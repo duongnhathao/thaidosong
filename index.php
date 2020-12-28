@@ -156,8 +156,12 @@
                         <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">About Us</span>
                         <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Empowering
                             individuals </h3>
-                        <p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Đạo đức nghề nghiệp là vấn đề vô cùng quan trọng trong bất cứ ngành nghề nào. Đây chính là nhân tố quyết định đối với với sự phát triển bền vững của xã hội. Đạo đức nghề nghiệp góp phần nâng cao giá trị của chủ thể ngành nghề, đồng thời tạo ra những hiệu quả to lớn trong công việc cũng như đápứng được nhu cầu, đòi hỏi của xã hội.
-</p>
+                        <p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Đạo đức nghề nghiệp
+                            là vấn đề vô cùng quan trọng trong bất cứ ngành nghề nào. Đây chính là nhân tố quyết định
+                            đối với với sự phát triển bền vững của xã hội. Đạo đức nghề nghiệp góp phần nâng cao giá trị
+                            của chủ thể ngành nghề, đồng thời tạo ra những hiệu quả to lớn trong công việc cũng như
+                            đápứng được nhu cầu, đòi hỏi của xã hội.
+                        </p>
                         <p class="last_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">“Function
                             information without cross action media value.</p>
                         <a href="#" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">About
@@ -184,7 +188,7 @@
             <div class="col-lg-8 col-md-12">
                 <div class="single_Portfolio wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
                     <div class="portfolio_thumb">
-                        <img src="img/portfolio/1.png" alt="">
+                        <img src="img/portfolio/1.jpg" alt="">
                     </div>
                     <div class="portfolio_hover">
                         <div class="title">
