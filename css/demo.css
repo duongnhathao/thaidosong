@@ -1,0 +1,14 @@
+.logo-img a img {
+  max-width: 250px;
+}
+@media screen and (max-width: 1650px) {
+  .logo-img a img {
+    max-width: 150px;
+  }
+}
+
+.footer_logo a img {
+  max-width: 150px;
+}
+
+/*# sourceMappingURL=demo.css.map */
