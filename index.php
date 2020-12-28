@@ -8,7 +8,16 @@
     <title>Life Skills: Thái Độ Sống 3 - Ba Chấm Team | Trang chủ </title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <meta name="description" content="Life Skills: Thái Độ Sống 3 - Ba Chấm Team">
+    <meta property="og:site_name" content="Life Skills: Thái Độ Sống 3">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="TRANG CHỦ">
+    <meta property="og:description" content="Life Skills: Thái Độ Sống 3 - Ba Chấm Team">
+    <meta property="og:image" content="img/portfolio/1.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:title" content="TRANG CHỦ">
+    <meta name="twitter:description" content="Life Skills: Thái Độ Sống 3 - Ba Chấm Team">
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
