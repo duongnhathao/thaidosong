@@ -99,9 +99,8 @@
                 <div class="col-lg-10 col-md-10">
                     <div class="slider_text">
                         <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
-                            Startup you can build a
-                            website online using the
-                            Bootstrap builder.
+                            Thái độ sống 3: Chia sẻ kinh nghiệm về nghề nghiệp hướng dẫn viên du lịch cho sinh viên Đại học Tôn Đức Thắng
+
                         </h3>
                         <a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s"
                            href="portfolio-2.php">Visit Our Works</a>
@@ -642,4 +641,3 @@
 </html>
 
 
-    
