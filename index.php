@@ -99,7 +99,7 @@
                 <div class="col-lg-10 col-md-10">
                     <div class="slider_text">
                         <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
-                            Thái độ sống 3: Chia sẻ kinh nghiệm về nghề nghiệp hướng dẫn viên du lịch cho sinh viên Đại học Tôn Đức Thắng
+                            Kinh nghiệm về nghề nghiệm Hướng dẫn viên
 
                         </h3>
                         <a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s"
