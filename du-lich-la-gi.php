@@ -15,7 +15,7 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="Life Skills: Du lịch là gì ?">
     <meta property="og:description" content="Life Skills: Du lịch là gì ?">
-    <meta property="og:image" content="img/portfolio/1.jpg">
+    <meta property="og:image" content="img/blog/dulichlagi/anhbia.jpg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <meta name="twitter:title" content="Life Skills: Du lịch là gì ?">
