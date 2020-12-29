@@ -125,17 +125,17 @@
                             <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
                                 <div class="detials">
                                     <p>Bài tiếp theo</p>
-                                    <a href="san-pham-du-lich.php">
-                                        <h4>Sản phẩm du lịch</h4>
+                                    <a href="huong-dan-vien-du-lich-2.php">
+                                        <h4>Hướng dẫn viên du lịch (P2)</h4>
                                     </a>
                                 </div>
                                 <div class="arrow">
-                                    <a href="san-pham-du-lich.php">
+                                    <a href="huong-dan-vien-du-lich-2.php.php">
                                         <span class="lnr text-white ti-arrow-right"></span>
                                     </a>
                                 </div>
                                 <div class="thumb">
-                                    <a href="san-pham-du-lich.php">
+                                    <a href="huong-dan-vien-du-lich-2.php.php">
                                         <img class="img-fluid" src="img/blog/dulichlagi/sanphamdulichj.jpg" style="max-width: 60px" alt="Bài tiếp theo : Sản phẩm du lịch">
                                     </a>
                                 </div>

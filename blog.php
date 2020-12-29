@@ -5,6 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <link rel="shortcut icon" href="img/portfolio/icon.png">
 
     <title>Danh sách bài viết | Life Skills - Ba Chấm Team</title>
     <meta name="description" content="Du lịch là gì ?">
@@ -39,11 +40,10 @@
     your browser</a> to improve your experience and security.</p>
 <![endif]-->
 
-<?php include 'header.php';?>
+<?php include 'header.php'; ?>
 
 
-
-<div class="bradcam_area breadcam_bg_3">
+<div class="bradcam_area breadcam_bg_banner1">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
@@ -61,11 +61,74 @@
         <div class="row">
             <div class="col-lg-8 mb-5 mb-lg-0">
                 <div class="blog_left_sidebar">
+
+                    <article class="blog_item">
+                        <div class="blog_item_img">
+                            <img class="card-img rounded-0" src="img/blog/dulichlagi/4_69.jpg"
+                                 alt="Hướng dẫn viên du lịch (P2)">
+                            <a href="huong-dan-vien-du-lich-2.php" class="blog_item_date">
+                                <h3>31</h3>
+                                <p>Dec</p>
+                            </a>
+                        </div>
+                        <div class="blog_details">
+                            <a class="d-inline-block" href="huong-dan-vien-du-lich-2.php">
+                                <h2>Hướng dẫn viên du lịch (P2)</h2>
+                            </a>
+                            <p> Hướng dẫn viên du lịch là một vị trí, một công việc thuộc ngành dịch vụ du lịch. Người
+                                làm hướng dẫn viên du lịch sử dụng ngôn ngữ phù hợp để giới thiệu,...</p>
+                            </p>
+                            <ul class="blog-info-link">
+                                <li><a href="huong-dan-vien-du-lich-2.php"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
+                            </ul>
+                        </div>
+                    </article>
+                    <article class="blog_item">
+                        <div class="blog_item_img">
+                            <img class="card-img rounded-0" src="img/blog/dulichlagi/4_69.jpg"
+                                 alt="Hướng dẫn viên du lịch">
+                            <a href="huong-dan-vien-du-lich.php" class="blog_item_date">
+                                <h3>30</h3>
+                                <p>Dec</p>
+                            </a>
+                        </div>
+                        <div class="blog_details">
+                            <a class="d-inline-block" href="huong-dan-vien-du-lich.php">
+                                <h2>Hướng dẫn viên du lịch</h2>
+                            </a>
+                            <p> Hướng dẫn viên du lịch là một vị trí, một công việc thuộc ngành dịch vụ du lịch. Người
+                                làm hướng dẫn viên du lịch sử dụng ngôn ngữ phù hợp để giới thiệu,...</p>
+                            </p>
+                            <ul class="blog-info-link">
+                                <li><a href="huong-dan-vien-du-lich.php"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
+                            </ul>
+                        </div>
+                    </article>
+                    <article class="blog_item">
+                        <div class="blog_item_img">
+                            <img class="card-img rounded-0" src="img/blog/dulichlagi/sanphamdulichj.jpg"
+                                 alt="Du lịch là gì">
+                            <a href="san-pham-du-lich.php" class="blog_item_date">
+                                <h3>29</h3>
+                                <p>Dec</p>
+                            </a>
+                        </div>
+                        <div class="blog_details">
+                            <a class="d-inline-block" href="san-pham-du-lich.php">
+                                <h2>Sản phẩm du lịch</h2>
+                            </a>
+                            <p>Sản phẩm du lịch cũng là một dạng sản phẩm nhằm thoả mãn nhu cầu du lịch của con
+                                người.</p>
+                            <ul class="blog-info-link">
+                                <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
+                            </ul>
+                        </div>
+                    </article>
                     <article class="blog_item">
                         <div class="blog_item_img">
                             <img class="card-img rounded-0" src="img/blog/dulichlagi/anhbia.jpg" alt="Du lịch là gì">
                             <a href="du-lich-la-gi.php" class="blog_item_date">
-                                <h3>29</h3>
+                                <h3>28</h3>
                                 <p>Dec</p>
                             </a>
                         </div>
@@ -79,44 +142,26 @@
                             </ul>
                         </div>
                     </article>
-                    <article class="blog_item">
-                        <div class="blog_item_img">
-                            <img class="card-img rounded-0" src="img/blog/dulichlagi/sanphamdulichj.jpg" alt="Du lịch là gì">
-                            <a href="san-pham-du-lich.php" class="blog_item_date">
-                                <h3>30</h3>
-                                <p>Dec</p>
-                            </a>
-                        </div>
-                        <div class="blog_details">
-                            <a class="d-inline-block" href="san-pham-du-lich.php">
-                                <h2>Sản phẩm du lịch</h2>
-                            </a>
-                            <p>Sản phẩm du lịch cũng là một dạng sản phẩm nhằm thoả mãn nhu cầu du lịch của con người.</p>
-                            <ul class="blog-info-link">
-                                <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                            </ul>
-                        </div>
-                    </article>
-                    <nav class="blog-pagination justify-content-center d-flex">
-                        <ul class="pagination">
-                            <li class="page-item">
-                                <a href="#" class="page-link" aria-label="Previous">
-                                    <i class="ti-angle-left"></i>
-                                </a>
-                            </li>
-                            <li class="page-item">
-                                <a href="#" class="page-link">1</a>
-                            </li>
-                            <li class="page-item active">
-                                <a href="#" class="page-link">2</a>
-                            </li>
-                            <li class="page-item">
-                                <a href="#" class="page-link" aria-label="Next">
-                                    <i class="ti-angle-right"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </nav>
+<!--                    <nav class="blog-pagination justify-content-center d-flex">-->
+<!--                        <ul class="pagination">-->
+<!--                            <li class="page-item">-->
+<!--                                <a href="#" class="page-link" aria-label="Previous">-->
+<!--                                    <i class="ti-angle-left"></i>-->
+<!--                                </a>-->
+<!--                            </li>-->
+<!--                            <li class="page-item">-->
+<!--                                <a href="#" class="page-link">1</a>-->
+<!--                            </li>-->
+<!--                            <li class="page-item active">-->
+<!--                                <a href="#" class="page-link">2</a>-->
+<!--                            </li>-->
+<!--                            <li class="page-item">-->
+<!--                                <a href="#" class="page-link" aria-label="Next">-->
+<!--                                    <i class="ti-angle-right"></i>-->
+<!--                                </a>-->
+<!--                            </li>-->
+<!--                        </ul>-->
+<!--                    </nav>-->
                 </div>
             </div>
             <div class="col-lg-4">
@@ -299,8 +344,7 @@
     </div>
 </section>
 
-<?php include 'footer.php';?>
-
+<?php include 'footer.php'; ?>
 
 
 <script src="js/vendor/modernizr-3.5.0.min.js"></script>

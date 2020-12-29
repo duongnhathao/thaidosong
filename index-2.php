@@ -102,8 +102,10 @@
                             Kinh nghiệm về nghề nghiệp Hướng dẫn viên
 
                         </h3>
+<!--                        <a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s"-->
+<!--                           href="portfolio-2.php">Visit Our Works</a>-->
                         <a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s"
-                           href="portfolio-2.php">Visit Our Works</a>
+                           href="blog.php">Visit Our Works</a>
                     </div>
                 </div>
             </div>
@@ -129,7 +131,8 @@
                         <img src="img/svg_icon/1.svg" alt="">
                     </div>
                     <h3>Du lịch là gì ?</h3>
-                    <p> Hiệp hội lữ hành quốc tế đã công nhận du lịch là một ngành kinh tế lớn nhất thế giới vượt lên cả ngành sản xuất ô tô, thép điện tử và nông nghiệp.</p>
+                    <p> Hiệp hội lữ hành quốc tế đã công nhận du lịch là một ngành kinh tế lớn nhất thế giới vượt lên cả
+                        ngành sản xuất ô tô, thép điện tử và nông nghiệp.</p>
                 </div>
             </div>
             <div class="col-xl-4 col-md-4">
@@ -147,7 +150,9 @@
                         <img src="img/svg_icon/3.svg" alt="">
                     </div>
                     <h3>Hướng dẫn viên du lịch là gì ?</h3>
-                    <p>Hướng dẫn viên du lịch là một vị trí, một công việc thuộc ngành dịch vụ du lịch. Người làm hướng dẫn viên du lịch sử dụng ngôn ngữ phù hợp để giới thiệu, giải thích, trình bày cho du khách về văn hóa, lịch sử, ý nghĩa của các địa danh tham quan.</p>
+                    <p>Hướng dẫn viên du lịch là một vị trí, một công việc thuộc ngành dịch vụ du lịch. Người làm hướng
+                        dẫn viên du lịch sử dụng ngôn ngữ phù hợp để giới thiệu, giải thích, trình bày cho du khách về
+                        văn hóa, lịch sử, ý nghĩa của các địa danh tham quan.</p>
                 </div>
             </div>
         </div>
@@ -162,10 +167,17 @@
                     <div class="section_title white_text">
                         <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Khái niệm</span>
                         <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Du lịch là gì ? </h3>
-                        <p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Thuật ngữ du lịch đã trở nên khá thông dụng, nó bắt nguồn từ tiếng Hy Lạp với ý nghĩa là đi một vòng. Du lịch gắn liền với nghỉ ngơi, giải trí, tuy nhiên do hoàn cảnh, thời gian và khu vực khác nhau, dưới mỗi góc độ nghiên cứu khác nhau nên khái niệm du lịch cũng không giống nhau.
+                        <p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Thuật ngữ du lịch
+                            đã trở nên khá thông dụng, nó bắt nguồn từ tiếng Hy Lạp với ý nghĩa là đi một vòng. Du lịch
+                            gắn liền với nghỉ ngơi, giải trí, tuy nhiên do hoàn cảnh, thời gian và khu vực khác nhau,
+                            dưới mỗi góc độ nghiên cứu khác nhau nên khái niệm du lịch cũng không giống nhau.
                         </p>
-                        <p class="last_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">“Du lịch là các hoạt động liên quan đến chuyến đi của con người ngoài nơi cư trú thường xuyên của mình nhằm đáp ứng nhu cầu tham quan, tìm hiểu, giải trí, nghỉ dưỡng trong một khoảng thời gian nhất định”</p>
-                        <a href="du-lich-la-gi.php" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">Tìm hiểu thêm</a>
+                        <p class="last_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">“Du lịch là các
+                            hoạt động liên quan đến chuyến đi của con người ngoài nơi cư trú thường xuyên của mình nhằm
+                            đáp ứng nhu cầu tham quan, tìm hiểu, giải trí, nghỉ dưỡng trong một khoảng thời gian nhất
+                            định”</p>
+                        <a href="du-lich-la-gi.php" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s"
+                           data-wow-delay=".7s">Tìm hiểu thêm</a>
                     </div>
                 </div>
             </div>
