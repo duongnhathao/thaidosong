@@ -55,7 +55,7 @@
                         <!--                        <a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s"-->
                         <!--                           href="portfolio-2.php">Visit Our Works</a>-->
                         <a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s"
-                           href="blog.php">Visit Our Works</a>
+                           href="blog.php">Tìm hiểu thêm</a>
                     </div>
                 </div>
             </div>
@@ -140,9 +140,8 @@
         <div class="row justify-content-center">
             <div class="col-lg-6">
                 <div class="section_title text-center mb-90">
-                    <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Featured Works</h3>
-                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Tour function information
-                        without cross action media value quickly maximize timely deliverables.</p>
+                    <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Các bài viết phổ biến</h3>
+                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Tổng hợp một số kiến thức cơ bản và một số tình huống và cách xữ lý</p>
                 </div>
             </div>
         </div>
@@ -154,9 +153,9 @@
                     </div>
                     <div class="portfolio_hover">
                         <div class="title">
-                            <span>App Design</span>
-                            <h3>Colorlib Mobile App</h3>
-                            <a class="boxed-btn3" href="portfolio_details.php">View</a>
+                            <span>Bài viết</span>
+                            <h3>Du lịch là gì ?</h3>
+                            <a class="boxed-btn3" href="du-lich-la-gi.php">View</a>
                         </div>
                     </div>
                 </div>
@@ -454,6 +453,7 @@
         </div>
     </div>
 </div>
+
 <?php include 'footer.php'; ?>
 
 

@@ -48,7 +48,6 @@
         <div class="row">
             <div class="col-xl-12">
                 <div class="bradcam_text">
-                    <h3>Danh sách bài viết</h3>
                 </div>
             </div>
         </div>
