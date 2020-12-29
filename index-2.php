@@ -56,7 +56,7 @@
                         <div class="main-menu  d-none d-lg-block text-center">
                             <nav>
                                 <ul id="navigation">
-                                    <li><a class="active" href="index-2.php">home</a></li>
+                                    <li><a class="active" href="index-2.php">Trang chủ</a></li>
                                     <li><a href="service.php">services</a></li>
                                     <li><a href="Portfolio.php">Portfolio</a></li>
                                     <li><a href="#">pages <i class="ti-angle-down"></i></a>
@@ -117,10 +117,8 @@
         <div class="row justify-content-center">
             <div class="col-lg-6">
                 <div class="section_title text-center mb-70">
-                    <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">Services</span>
-                    <h3 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s">With more than 20 years of
-                        experience we can deliver the
-                        best product design.</h3>
+                    <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">Tổng quan</span>
+                    <h3 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s">Ngành du lịch</h3>
                 </div>
             </div>
         </div>
@@ -130,8 +128,8 @@
                     <div class="icon">
                         <img src="img/svg_icon/1.svg" alt="">
                     </div>
-                    <h3>Graphic design</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor.</p>
+                    <h3>Du lịch là gì ?</h3>
+                    <p> Hiệp hội lữ hành quốc tế đã công nhận du lịch là một ngành kinh tế lớn nhất thế giới vượt lên cả ngành sản xuất ô tô, thép điện tử và nông nghiệp.</p>
                 </div>
             </div>
             <div class="col-xl-4 col-md-4">
@@ -139,8 +137,8 @@
                     <div class="icon">
                         <img src="img/svg_icon/2.svg" alt="">
                     </div>
-                    <h3>Web design</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor.</p>
+                    <h3>Sản phẩm du lịch là gì ?</h3>
+                    <p>Sản phẩm du lịch cũng là một dạng sản phẩm nhằm thoả mãn nhu cầu du lịch của con người.</p>
                 </div>
             </div>
             <div class="col-xl-4 col-md-4">
@@ -148,8 +146,8 @@
                     <div class="icon">
                         <img src="img/svg_icon/3.svg" alt="">
                     </div>
-                    <h3>Mobile app</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor.</p>
+                    <h3>Hướng dẫn viên du lịch là gì ?</h3>
+                    <p>Hướng dẫn viên du lịch là một vị trí, một công việc thuộc ngành dịch vụ du lịch. Người làm hướng dẫn viên du lịch sử dụng ngôn ngữ phù hợp để giới thiệu, giải thích, trình bày cho du khách về văn hóa, lịch sử, ý nghĩa của các địa danh tham quan.</p>
                 </div>
             </div>
         </div>
@@ -162,17 +160,11 @@
             <div class="col-lg-5 offset-lg-1">
                 <div class="about_info">
                     <div class="section_title white_text">
-                        <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">About Us</span>
-                        <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Empowering
-                            individuals </h3>
-                        <p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Đạo đức nghề nghiệp
-                            là vấn đề vô cùng quan trọng trong bất cứ ngành nghề nào. Đây chính là nhân tố quyết định
-                            đối với với sự phát triển bền vững của xã hội. Đạo đức nghề nghiệp góp phần nâng cao giá trị
-                            của chủ thể ngành nghề, đồng thời tạo ra những hiệu quả to lớn trong công việc cũng như
-                            đápứng được nhu cầu, đòi hỏi của xã hội.
+                        <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Khái niệm</span>
+                        <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Du lịch là gì ? </h3>
+                        <p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Thuật ngữ du lịch đã trở nên khá thông dụng, nó bắt nguồn từ tiếng Hy Lạp với ý nghĩa là đi một vòng. Du lịch gắn liền với nghỉ ngơi, giải trí, tuy nhiên do hoàn cảnh, thời gian và khu vực khác nhau, dưới mỗi góc độ nghiên cứu khác nhau nên khái niệm du lịch cũng không giống nhau.
                         </p>
-                        <p class="last_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">“Function
-                            information without cross action media value.</p>
+                        <p class="last_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">“Du lịch là các hoạt động liên quan đến chuyến đi của con người ngoài nơi cư trú thường xuyên của mình nhằm đáp ứng nhu cầu tham quan, tìm hiểu, giải trí, nghỉ dưỡng trong một khoảng thời gian nhất định”</p>
                         <a href="#" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">About
                             Us</a>
                     </div>
@@ -639,5 +631,5 @@
 
 <!-- Mirrored from preview.colorlib.com/theme/startup2/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 28 Dec 2020 14:18:40 GMT -->
 </html>
-
+layoutdichvu
 
