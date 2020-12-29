@@ -7,7 +7,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <link rel="shortcut icon" href="img/portfolio/icon.png">
 
-    <title>Hướng dẫn viên du lịch ? | Life Skills - Ba Chấm Team</title>
+    <title>Tổng quan về hướng dẫn viên du lịch | Life Skills - Ba Chấm Team</title>
     <meta name="description" content="Du lịch là gì ?">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Life Skills: Hướng dẫn viên du lịch">
@@ -42,12 +42,12 @@
 
 <?php include 'header.php';?>
 
-<div class="bradcam_area breadcam_bg_dulichlagi">
+<div class="bradcam_area breadcam_bg_huongdanvien   ">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
                 <div class="bradcam_text">
-                    <h3>Du lịch là gì ?</h3>
+                    <h3>hướng dẫn viên</h3>
                 </div>
             </div>
         </div>
@@ -61,40 +61,38 @@
             <div class="col-lg-8 posts-list">
                 <div class="single-post">
                     <div class="feature-img">
-                        <img class="img-fluid" src="img/blog/dulichlagi/anhbia.jpg" alt="Ảnh bìa">
+                        <img class="img-fluid" src="img/blog/dulichlagi/tour-guid.png" alt="Ảnh bìa">
                     </div>
                     <div class="blog_details">
-                        <h2>Hướng dẫn viên du lịch là một vị trí, một công việc thuộc ngành dịch vụ du lịch.
+                        <h2>Hướng dẫn viên du lịch
                         </h2>
                         <ul class="blog-info-link mt-3 mb-4">
                             <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
                         </ul>
+                        <h3>Khái niệm hướng dẫn viên du lịch
+                        </h3>
                         <p class="excert">
-                            Người làm hướng dẫn viên du lịch sử dụng ngôn ngữ phù hợp để giới thiệu, giải thích, trình bày cho du khách về văn hóa, lịch sử, ý nghĩa của các địa danh tham quan. Ngoài ra, trong suốt cuộc hành trình họ sẽ giao lưu và giải đáp toàn bộ những thắc mắc của du khách.</p>
+                            Hướng dẫn viên du lịch là một vị trí, một công việc thuộc ngành dịch vụ du lịch. Người làm hướng dẫn viên du lịch sử dụng ngôn ngữ phù hợp để giới thiệu, giải thích, trình bày cho du khách về văn hóa, lịch sử, ý nghĩa của các địa danh tham quan. Ngoài ra, trong suốt cuộc hành trình họ sẽ giao lưu và giải đáp toàn bộ những thắc mắc của du khách.</p>
                         <p>
-                            Thuật ngữ du lịch đã trở nên khá thông dụng, nó bắt nguồn từ tiếng Hy Lạp với ý nghĩa là đi một vòng. Du lịch gắn liền với nghỉ ngơi, giải trí, tuy nhiên do hoàn cảnh, thời gian và khu vực khác nhau, dưới mỗi góc độ nghiên cứu khác nhau nên khái niệm du lịch cũng không giống nhau.Luật Du lịch Việt Nam 2005 đã đưa ra khái niệm như sau:
-                        </p>
-                        <div class="quote-wrapper">
-                            <div class="quotes">
-                                “Du lịch là các hoạt động liên quan đến chuyến đi của con người ngoài nơi cư trú thường xuyên của mình nhằm đáp ứng nhu cầu tham quan, tìm hiểu, giải trí, nghỉ dưỡng trong một khoảng thời gian nhất định”.
-                            </div>
+                            Hướng dẫn viên là các cá nhân làm việc trên tuyến du lịch cùng với cá nhân khác hoặc đoàn khách theo 1 chương trình đã định sẵn, hướng dẫn viên có nhiệm vụ thuyết minh cho khách về các điểm du lịch và tạo những ấn tượng tốt đẹp cho khách du lịch. </p>
+
+                        <p>
+                            Hướng dẫn viên là các cá nhân làm việc cho các doanh nghiệp lữ hành với nhiệm vụ hướng dẫn du khách tham quan các điểm du lịch theo chương trình đã được ký kết. Hướng dẫn viên du lịch thường được gọi là: Tour Guide, Tour Manager, Tour Leader, Guideur Touristique, Couurier Tourstique, là những người hướng dẫn khách  trong các chuyến du lịch tại các điểm du lịch nhằm đáp ứng các nhu cầu được thỏa thuận của khách và đại diện tổ chức kinh doanh du lịch giải quyết những vấn đề phát sinh trong quá trình du lịch của khách trong khả năng cho phép của mình.</p>
+                        <h3>Phân loại hướng dẫn viên du lịch
+                        </h3>
+                        <div class="feature-img mb-5">
+                            <img class="img-fluid" src="img/blog/dulichlagi/frame-tree-cartoon-flower-heart.jpg" alt="Ảnh bìa">
                         </div>
-                        <p>
-                            Theo liên hiệp Quốc các tổ chức lữ hành chính thức( International Union of Official Travel Oragnization: IUOTO): Du lịch được hiểu là hành động du hành đến một nơi khác với điạ điểm cư trú thường xuyên cuả mình nhằm mục đích không phải để làm ăn, tức không phải để làm một nghề hay một việc kiếm tiền sinh sống...
-                        </p>
-                        <p>
-                            Tại hội nghị LHQ về du lịch họp tại Roma - Italia ( 21/8 – 5/9/1963), các chuyên gia đưa ra định nghĩa về du lịch: Du lịch là tổng hợp các mối quan hệ, hiện tượng và các hoạt động kinh tế bắt nguồn từ các cuộc hành trình và lưu trú cuả cá nhân hay tập thể ở bên ngoài nơi ở thường xuyên cuả họ hay ngoài nước họ với mục đích hoà bình. Nơi họ đến lưu trú không phải là nơi làm việc cuả họ. Theo các nhà du lịch Trung Quốc: họat động du lịch là tổng hoà hàng loạt quan hệ và hiện tượng lấy sự tồn tại và phát triển kinh tế, xã hội nhất định làm 7 cơ sở, lấy chủ thể du lịch, khách thể du lịch và trung gian du lịch làm điều kiện.
-                        </p>
-                        <div class="feature-img py-5">
-                            <img class="img-fluid" src="img/blog/dulichlagi/du-lich-chau-au-thang-10-1.jpg" alt="Ảnh bìa">
+
+                        <p>Hướng dẫn viên du lịch được chia thành hai nhóm phổ biến nhất là hướng dẫn viên nội địa và hướng dẫn viên quốc tế. Thông thường, chúng ta còn nghe thêm một khái niệm nữa là hướng dẫn viên tại điểm, thực chất đây chỉ là thuật ngữ để chỉ một đối tượng hướng dẫn viên không hề tách biệt khỏi hai nhóm hướng dẫn viên du lịch nói trên.</p>
+                        <p>Hướng dẫn viên nội địa là người chỉ được phép sử dụng Tiếng Việt trong suốt chuyến hành trình. Họ sẽ giải thích, thuyết trình cho đoàn khách Việt Nam đi du lịch trong nước nên công việc sẽ phần nào khó khăn hơn. </p>
+                        <div class="feature-img mb-5">
+                            <img class="img-fluid" src="img/blog/dulichlagi/4_69.jpg" alt="Ảnh bìa">
                         </div>
-                        <p>
-                            Theo I.I pirôgionic, 1985: Du lịch là một dạng hoạt động cuả dân cư trong thời gian rỗi liên quan với sự di chuyển và lưu lại tạm thời bên ngoài nơi cư trú thường xuyên nhằm nghĩ ngơi, chữa bệnh, phát triển thể chất và tinh thần, nâng cao trình độ nhận thức văn hoá hoặc thể thao kèm theo việc tiêu thụ những giá trị về tự nhiên, kinh tế và văn hoá.
-                        </p>
-                        <p>Theo nhà kinh tế học người Áo Josep Stander nhìn từ góc độ du khách: khách du lịch là loại khách đi theo ý thích ngoài nơi cư trú thường xuyên để thoả mãn sinh họat cao cấp mà không theo đuổi mục đích kinh tế.Nhìn từ góc độ thay đổi về không gian cuả du khách: du lịch là một trong những hình thức di chuyển tạm thời từ một vùng này sang một vùng khác, từ một nước này sang một nước khác mà không thay đổi nơi cư trú hay nơi làm việc.</p>
-                        <p>Nhìn từ góc độ kinh tế: Du lịch là một ngành kinh tế, dịch vụ có nhiệm vụ phục vụ cho nhu cầu tham quan giải trí nghĩ ngơi, có hoặc không kết hợp với các hoạt động chữa bệnh, thể thao, nghiên cứu khoa học và các nhu cầu khác. Theo Bản chất du lịch Nhìn từ góc độ nhu cầu của du khách: Du lịch là một sản phẩm tất yếu của sự phát triển kinh tế - xã hội của loài người đến một giai đoạn phát triển nhất định. chỉ trong hoàn cảnh kinh tế thị trường phát triển, gia tăng thu nhập bình quân đầu người, tăng thời gian rỗi do tiến bộ cuả khoa học - công nghệ, phương tiện giao thông và thông tin ngày càng phát triển, làm phát sinh nhu cầu nghĩ ngơi, tham quan du lịch cuả con người. Bản chất đích thực của du lịch là du ngoạn để cảm nhận những giá trị vật chất và tinh thần có tính văn hoá cao.</p>
-                        <p>Xét từ góc độ các quốc sách phát triển du lịch: Dựa trên nền tảng của tài nguyên du lịch để hoạch định chiến lược phát triển du lịch, định hướng các kế hoạch dài hạn, trung hạn và ngắn hạn. lựa chọn các sản phẩm du lịch độc đáo và đặc trưng từ nguốn nguyên liệu trên, đồng thời xác định phương hướng qui hoạch xây dựng cơ sở vật chất - kỹ thuật và cơ sở hạ tầng dịch vụ du lịch tương 8 ứng.Xét từ góc độ sản phẩm du lịch: sản phẩm đặc trưng cuả du lịch là các chương trình du lịch, nội dung chủ yếu cuả nó là sự liên kết những di tích lịch sử, di tích văn hoá và cảnh quan thiên nhiên nổi tiếng cùng với cơ sở vật chất - kỹ thuật như cơ sở lưu trú, ăn uống, vận chuyển.</p>
-                        <p>Xét từ góc độ thị trường du lịch: Mục đích chủ yếu của các nhà tiếp thị du lịch là tìm kiếm thị trường du lịch, tìm kiếm nhu cầu cuả du khách để “ mua chương trình du lịch”. </p>
+                        <p>Hướng dẫn viên du lịch đòi hỏi phải có một bài trình bày thật ấn tượng, chi tiết và đảm bảo tính chính xác tuyệt đối mới có thể chinh phục được các du khách Việt. Muốn làm công việc này bạn phải có thẻ nội địa của hướng dẫn viên du lịch.Hướng dẫn viên quốc tế đây là hướng dẫn viên du lịch người Việt Nam nhưng sẽ sử dụng các ngôn ngữ khác nhau để phù hợp với du khách. Bạn sẽ đón tiếp các đoàn khách từ nhiều quốc gia khác nhau đến du lịch tại Việt Nam. Cũng như công việc của một hướng dẫn viên nội địa, việc làm này yêu cầu bạn phải có thẻ của hướng dẫn viên quốc tế. Tuy nhiên, thẻ này sẽ không có giá trị khi bạn sang nước ngoài.Ngoài ra còn có các loại hướng dẫn viên khác sau đây; On-site Guide (HDV tại điểm): là người hướng dẫn du khách thực hiện chuyến tham quan trong vài giờ tại 1 điểm du lịch cụ thể, VD: hướng dẫn khách thăm bảo tàng Hồ Chí Minh, cung đình Huế, Phố cổ Hội An,…City Guide (HDV thành phố): là người hướng dẫn du khách thực hiện chuyến du lịch quanh thành phố, chủ yếu trên các phương tiện công cộng như: xe buýt, taxi, xích lô,..với nhiệm cụ: giới thiệu, bình luận những điểm du lịch nổi bật trong thành phố, ngoài tra HDV còn giải đáp các thắc mắc của du khách trong lộ trình tham quan trên các phương tiện di chuyển.Step-on Guide (HDV không chuyên): là các cộng tác viên được các tổ chức kinh doanh du lịch thuê theo hợp đồng để hướng dẫn du khách. Họ có thể là: giáo viên ngoại ngữ, nhà báo, nhà khoa học,…có kiến thức về các tuyến hoặc điểm du lịch mà du khách cần tìm hiểu. HDV dạng này đa phần cũng có khả năng hướng dẫn du lịch và khả năng ứng xử linh hoạt với khách và thường được thê theo mùa du lịch cao điểm hoặc làm tại những tuyến du lịch cố định nào đó.</p>
+                        <p>HDV địa phương: là hướng dẫn viên tại những điểm du lịch hoặc thành phố cụ thể nào đó làm nhiệm vụ hướng dẫn du khách ở 1 điểm du lịch đó chứ không theo khách trong suốt chuyến du lịch. HDV địa phương ít nhiều gì cũng cần có những kiến thức nhất định về đối tượng tham gia và nghiệp vụ, chuyên môn, không giống những người giới thiệu tại chỗ, vốn không phải là hướng dẫn viên.</p>
+                        <p></p>
+
                     </div>
                 </div>
                 <div class="navigation-top">
@@ -106,8 +104,24 @@
                     <div class="navigation-area">
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
-
+                                <div class="thumb">
+                                    <a href="san-pham-du-lich.php">
+                                        <img class="img-fluid" src="img/post/preview.png" alt="">
+                                    </a>
+                                </div>
+                                <div class="arrow">
+                                    <a href="san-pham-du-lich.php">
+                                        <span class="lnr text-white ti-arrow-left"></span>
+                                    </a>
+                                </div>
+                                <div class="detials">
+                                    <p>Bài trước</p>
+                                    <a href="san-pham-du-lich.php">
+                                        <h4>Sản phẩm du lịch</h4>
+                                    </a>
+                                </div>
                             </div>
+
                             <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
                                 <div class="detials">
                                     <p>Bài tiếp theo</p>
