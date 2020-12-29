@@ -37,7 +37,7 @@
                                             <li><a href="blog.php">Danh sách bài viết</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="contact.php">Contact</a></li>
+                                    <li><a href="contact.php">Liên hệ</a></li>
                                 </ul>
                             </nav>
                         </div>

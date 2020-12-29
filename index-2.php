@@ -52,8 +52,8 @@
                             Kinh nghiệm về nghề nghiệp Hướng dẫn viên
 
                         </h3>
-<!--                        <a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s"-->
-<!--                           href="portfolio-2.php">Visit Our Works</a>-->
+                        <!--                        <a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s"-->
+                        <!--                           href="portfolio-2.php">Visit Our Works</a>-->
                         <a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s"
                            href="blog.php">Tìm hiểu thêm</a>
                     </div>
@@ -226,9 +226,8 @@
             <div class="col-lg-5">
                 <div class="work_info">
                     <div class="section_title">
-                        <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">How we work</h3>
-                        <p class="mid_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">“Function
-                            information without cross action media value.</p>
+                        <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Quá trình làm việc</h3>
+                        <p class="mid_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">“ Đây là video quay lại quá trình làm việc của team ”</p>
                         <p class="last_p wow fadeInRight" data-wow-duration="1s" data-wow-delay=".5s">Efficiently
                             unleash cross-media tour function information without cross action media value. Quickly
                             maximize timely deliverables for real-time schemas.</p>
