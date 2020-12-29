@@ -7,19 +7,19 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <link rel="shortcut icon" href="img/portfolio/icon.png">
 
-    <title>Du lịch là gì ? | Life Skills - Ba Chấm Team</title>
+    <title>Hướng dẫn viên du lịch ? | Life Skills - Ba Chấm Team</title>
     <meta name="description" content="Du lịch là gì ?">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Life Skills: Du lịch là gì ?">
-    <meta property="og:site_name" content="Life Skills: Du lịch là gì ?">
+    <meta name="description" content="Life Skills: Hướng dẫn viên du lịch">
+    <meta property="og:site_name" content="Life Skills: Hướng dẫn viên du lịch">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Life Skills: Du lịch là gì ?">
-    <meta property="og:description" content="Hiệp hội lữ hành quốc tế đã công nhận du lịch là một ngành kinh tế lớn nhất thế giới vượt lên cả ngành sản xuất ô tô, thép điện tử và nông nghiệp. Vì vậy, du lịch đã trở thành một ngành kinh tế mũi nhọn của nhiều quốc gia trên thế giới.">
-    <meta property="og:image" content="img/blog/dulichlagi/anhbia.jpg">
+    <meta property="og:title" content="Life Skills: Hướng dẫn viên du lịch">
+    <meta property="og:description" content="Hướng dẫn viên du lịch là một vị trí, một công việc thuộc ngành dịch vụ du lịch. Người làm hướng dẫn viên du lịch sử dụng ngôn ngữ phù hợp để giới thiệu, giải thích, trình bày cho du khách về văn hóa, lịch sử, ý nghĩa của các địa danh tham quan. ">
+    <meta property="og:image" content="img/blog/dulichlagi/tour-guid.png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-    <meta name="twitter:title" content="Life Skills: Du lịch là gì ?">
-    <meta name="twitter:description" content="Life Skills: Du lịch là gì ?">
+    <meta name="twitter:title" content="Life Skills: Hướng dẫn viên du lịch">
+    <meta name="twitter:description" content="Life Skills: Hướng dẫn viên du lịch">
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
@@ -64,14 +64,13 @@
                         <img class="img-fluid" src="img/blog/dulichlagi/anhbia.jpg" alt="Ảnh bìa">
                     </div>
                     <div class="blog_details">
-                        <h2>Ngày nay du lịch trở thành một hiện tượng kinh tế xã hội phổ biến.
+                        <h2>Hướng dẫn viên du lịch là một vị trí, một công việc thuộc ngành dịch vụ du lịch.
                         </h2>
                         <ul class="blog-info-link mt-3 mb-4">
                             <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
                         </ul>
                         <p class="excert">
-                            Hiệp hội lữ hành quốc tế đã công nhận du lịch là một ngành kinh tế lớn nhất thế giới vượt lên cả ngành sản xuất ô tô, thép điện tử và nông nghiệp. Vì vậy, du lịch đã trở thành một ngành kinh tế mũi nhọn của nhiều quốc gia trên thế giới.
-                        </p>
+                            Người làm hướng dẫn viên du lịch sử dụng ngôn ngữ phù hợp để giới thiệu, giải thích, trình bày cho du khách về văn hóa, lịch sử, ý nghĩa của các địa danh tham quan. Ngoài ra, trong suốt cuộc hành trình họ sẽ giao lưu và giải đáp toàn bộ những thắc mắc của du khách.</p>
                         <p>
                             Thuật ngữ du lịch đã trở nên khá thông dụng, nó bắt nguồn từ tiếng Hy Lạp với ý nghĩa là đi một vòng. Du lịch gắn liền với nghỉ ngơi, giải trí, tuy nhiên do hoàn cảnh, thời gian và khu vực khác nhau, dưới mỗi góc độ nghiên cứu khác nhau nên khái niệm du lịch cũng không giống nhau.Luật Du lịch Việt Nam 2005 đã đưa ra khái niệm như sau:
                         </p>

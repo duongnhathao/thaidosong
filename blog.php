@@ -5,10 +5,20 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>StartUp</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <title>Danh sách bài viết | Life Skills - Ba Chấm Team</title>
+    <meta name="description" content="Du lịch là gì ?">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Life Skills: Danh sách bài viết">
+    <meta property="og:site_name" content="Life Skills: Danh sách bài viết">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Life Skills: Danh sách bài viết">
+    <meta property="og:description" content="Danh sách các bài viết được đăng tải">
+    <meta property="og:image" content="img/blog/dulichlagi/anhbia.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:title" content="Life Skills: Danh sách bài viết">
+    <meta name="twitter:description" content="Life Skills:Danh sách bài viết">
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
@@ -29,56 +39,8 @@
     your browser</a> to improve your experience and security.</p>
 <![endif]-->
 
-<header>
-    <div class="header-area ">
-        <div id="sticky-header" class="main-header-area">
-            <div class="container-fluid p-0">
-                <div class="row align-items-center no-gutters">
-                    <div class="col-xl-2 col-lg-2">
-                        <div class="logo-img">
-                            <a href="index-2.php">
-                                <img src="img/logo.png" alt="">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-xl-8 col-lg-8">
-                        <div class="main-menu  d-none d-lg-block text-center">
-                            <nav>
-                                <ul id="navigation">
-                                    <li><a class="active" href="index-2.php">home</a></li>
-                                    <li><a href="service.php">services</a></li>
-                                    <li><a href="Portfolio.php">Portfolio</a></li>
-                                    <li><a href="#">pages <i class="ti-angle-down"></i></a>
-                                        <ul class="submenu">
-                                            <li><a href="portfolio_details.php">Portfolio details</a></li>
-                                            <li><a href="about.php">about</a></li>
-                                            <li><a href="elements.php">elements</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">blog <i class="ti-angle-down"></i></a>
-                                        <ul class="submenu">
-                                            <li><a href="blog.php">blog</a></li>
-                                            <li><a href="single-blog.php">single-blog</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="contact.php">Contact</a></li>
-                                </ul>
-                            </nav>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 d-none d-lg-block">
-                        <div class="log_chat_area d-flex align-items-end">
-                            <a href="#" target="_black" class="say_hi">Say Hello</a>
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="mobile_menu d-block d-lg-none"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
+<?php include 'header.php';?>
+
 
 
 <div class="bradcam_area breadcam_bg_3">
@@ -86,7 +48,7 @@
         <div class="row">
             <div class="col-xl-12">
                 <div class="bradcam_text">
-                    <h3>blog</h3>
+                    <h3>Danh sách bài viết</h3>
                 </div>
             </div>
         </div>
@@ -101,101 +63,37 @@
                 <div class="blog_left_sidebar">
                     <article class="blog_item">
                         <div class="blog_item_img">
-                            <img class="card-img rounded-0" src="img/blog/single_blog_1.png" alt="">
-                            <a href="#" class="blog_item_date">
-                                <h3>15</h3>
-                                <p>Jan</p>
+                            <img class="card-img rounded-0" src="img/blog/dulichlagi/anhbia.jpg" alt="Du lịch là gì">
+                            <a href="du-lich-la-gi.php" class="blog_item_date">
+                                <h3>29</h3>
+                                <p>Dec</p>
                             </a>
                         </div>
                         <div class="blog_details">
-                            <a class="d-inline-block" href="single-blog.php">
-                                <h2>Google inks pact for new 35-storey office</h2>
+                            <a class="d-inline-block" href="du-lich-la-gi.php">
+                                <h2>Du lịch là gì ?</h2>
                             </a>
-                            <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                he earth it first without heaven in place seed it second morning saying.</p>
+                            <p>Ngày nay du lịch trở thành một hiện tượng kinh tế xã hội phổ biến.</p>
                             <ul class="blog-info-link">
                                 <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
                             </ul>
                         </div>
                     </article>
                     <article class="blog_item">
                         <div class="blog_item_img">
-                            <img class="card-img rounded-0" src="img/blog/single_blog_2.png" alt="">
-                            <a href="#" class="blog_item_date">
-                                <h3>15</h3>
-                                <p>Jan</p>
+                            <img class="card-img rounded-0" src="img/blog/dulichlagi/sanphamdulichj.jpg" alt="Du lịch là gì">
+                            <a href="san-pham-du-lich.php" class="blog_item_date">
+                                <h3>30</h3>
+                                <p>Dec</p>
                             </a>
                         </div>
                         <div class="blog_details">
-                            <a class="d-inline-block" href="single-blog.php">
-                                <h2>Google inks pact for new 35-storey office</h2>
+                            <a class="d-inline-block" href="san-pham-du-lich.php">
+                                <h2>Sản phẩm du lịch</h2>
                             </a>
-                            <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                he earth it first without heaven in place seed it second morning saying.</p>
+                            <p>Sản phẩm du lịch cũng là một dạng sản phẩm nhằm thoả mãn nhu cầu du lịch của con người.</p>
                             <ul class="blog-info-link">
                                 <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
-                            </ul>
-                        </div>
-                    </article>
-                    <article class="blog_item">
-                        <div class="blog_item_img">
-                            <img class="card-img rounded-0" src="img/blog/single_blog_3.png" alt="">
-                            <a href="#" class="blog_item_date">
-                                <h3>15</h3>
-                                <p>Jan</p>
-                            </a>
-                        </div>
-                        <div class="blog_details">
-                            <a class="d-inline-block" href="single-blog.php">
-                                <h2>Google inks pact for new 35-storey office</h2>
-                            </a>
-                            <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                he earth it first without heaven in place seed it second morning saying.</p>
-                            <ul class="blog-info-link">
-                                <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
-                            </ul>
-                        </div>
-                    </article>
-                    <article class="blog_item">
-                        <div class="blog_item_img">
-                            <img class="card-img rounded-0" src="img/blog/single_blog_4.png" alt="">
-                            <a href="#" class="blog_item_date">
-                                <h3>15</h3>
-                                <p>Jan</p>
-                            </a>
-                        </div>
-                        <div class="blog_details">
-                            <a class="d-inline-block" href="single-blog.php">
-                                <h2>Google inks pact for new 35-storey office</h2>
-                            </a>
-                            <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                he earth it first without heaven in place seed it second morning saying.</p>
-                            <ul class="blog-info-link">
-                                <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
-                            </ul>
-                        </div>
-                    </article>
-                    <article class="blog_item">
-                        <div class="blog_item_img">
-                            <img class="card-img rounded-0" src="img/blog/single_blog_5.png" alt="">
-                            <a href="#" class="blog_item_date">
-                                <h3>15</h3>
-                                <p>Jan</p>
-                            </a>
-                        </div>
-                        <div class="blog_details">
-                            <a class="d-inline-block" href="single-blog.php">
-                                <h2>Google inks pact for new 35-storey office</h2>
-                            </a>
-                            <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                he earth it first without heaven in place seed it second morning saying.</p>
-                            <ul class="blog-info-link">
-                                <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
                             </ul>
                         </div>
                     </article>
@@ -401,72 +299,8 @@
     </div>
 </section>
 
+<?php include 'footer.php';?>
 
-<footer class="footer">
-    <div class="footer_top">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-2 col-md-3">
-                    <div class="footer_logo wow fadeInRight" data-wow-duration="1s" data-wow-delay=".3s">
-                        <a href="index-2.php">
-                            <img src="img/logo.png" alt="">
-                        </a>
-                    </div>
-                </div>
-                <div class="col-xl-7 col-lg-7 col-md-9">
-                    <div class="menu_links">
-                        <ul>
-                            <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".2s"
-                                   href="#">About</a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                            </li>
-                            <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".4s"
-                                   href="#">Services</a></li>
-                            <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".6s"
-                                   href="#">Portfolio</a></li>
-                            <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".8s" href="#">Pages</a>
-                            </li>
-                            <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="1s" href="#">Blog</a>
-                            </li>
-                            <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="1.1s"
-                                   href="#">Contact</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-12">
-                    <div class="socail_links">
-                        <ul>
-                            <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" href="#"> <i
-                                            class="fa fa-facebook"></i> </a></li>
-                            <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s" href="#"> <i
-                                            class="fa fa-twitter"></i> </a></li>
-                            <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" href="#"> <i
-                                            class="fa fa-instagram"></i> </a></li>
-                            <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" href="#"> <i
-                                            class="fa fa-google-plus"></i> </a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="copy-right_text">
-        <div class="container">
-            <div class="footer_border"></div>
-            <div class="row">
-                <div class="col-xl-12">
-                    <p class="copy_right text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.3s">
-
-                        Copyright &copy;<script>document.write(new Date().getFullYear());</script>
-                        All rights reserved | This template is made with <i class="fa fa-heart-o"
-                                                                            aria-hidden="true"></i> by <a
-                                href="../../../colorlib.com/index.php" target="_blank">Colorlib</a>
-
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
 
 
 <script src="js/vendor/modernizr-3.5.0.min.js"></script>
