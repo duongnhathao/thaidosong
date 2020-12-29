@@ -5,10 +5,21 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>StartUp</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="img/portfolio/icon.png">
 
+    <title>Du lịch là gì ? | Life Skills - Ba Chấm Team</title>
+    <meta name="description" content="Du lịch là gì ?">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Life Skills: Du lịch là gì ?">
+    <meta property="og:site_name" content="Life Skills: Du lịch là gì ?">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Life Skills: Du lịch là gì ?">
+    <meta property="og:description" content="Life Skills: Du lịch là gì ?">
+    <meta property="og:image" content="img/portfolio/1.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:title" content="Life Skills: Du lịch là gì ?">
+    <meta name="twitter:description" content="Life Skills: Du lịch là gì ?">
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
@@ -29,64 +40,14 @@
     your browser</a> to improve your experience and security.</p>
 <![endif]-->
 
-<header>
-    <div class="header-area ">
-        <div id="sticky-header" class="main-header-area">
-            <div class="container-fluid p-0">
-                <div class="row align-items-center no-gutters">
-                    <div class="col-xl-2 col-lg-2">
-                        <div class="logo-img">
-                            <a href="index-2.php">
-                                <img src="img/logo.png" alt="">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-xl-8 col-lg-8">
-                        <div class="main-menu  d-none d-lg-block text-center">
-                            <nav>
-                                <ul id="navigation">
-                                    <li><a class="active" href="index-2.php">home</a></li>
-                                    <li><a href="service.php">services</a></li>
-                                    <li><a href="Portfolio.php">Portfolio</a></li>
-                                    <li><a href="#">pages <i class="ti-angle-down"></i></a>
-                                        <ul class="submenu">
-                                            <li><a href="portfolio_details.php">Portfolio details</a></li>
-                                            <li><a href="about.php">about</a></li>
-                                            <li><a href="elements.php">elements</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">blog <i class="ti-angle-down"></i></a>
-                                        <ul class="submenu">
-                                            <li><a href="blog.php">blog</a></li>
-                                            <li><a href="single-blog.php">single-blog</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="contact.php">Contact</a></li>
-                                </ul>
-                            </nav>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 d-none d-lg-block">
-                        <div class="log_chat_area d-flex align-items-end">
-                            <a href="#" target="_black" class="say_hi">Say Hello</a>
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="mobile_menu d-block d-lg-none"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
+<?php include 'header.php';?>
 
-
-<div class="bradcam_area breadcam_bg_3">
+<div class="bradcam_area breadcam_bg_dulichlagi">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
                 <div class="bradcam_text">
-                    <h3>single blog</h3>
+                    <h3>Du lịch là gì ?</h3>
                 </div>
             </div>
         </div>
@@ -100,56 +61,39 @@
             <div class="col-lg-8 posts-list">
                 <div class="single-post">
                     <div class="feature-img">
-                        <img class="img-fluid" src="img/blog/single_blog_1.png" alt="">
+                        <img class="img-fluid" src="img/blog/dulichlagi/anhbia.jpg" alt="Ảnh bìa">
                     </div>
                     <div class="blog_details">
-                        <h2>Second divided from form fish beast made every of seas
-                            all gathered us saying he our
+                        <h2>Ngày nay du lịch trở thành một hiện tượng kinh tế xã hội phổ biến.
                         </h2>
                         <ul class="blog-info-link mt-3 mb-4">
                             <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
                             <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
                         </ul>
                         <p class="excert">
-                            MCSE boot camps have its supporters and its detractors. Some people do not understand why
-                            you
-                            should have to spend money on boot camp when you can get the MCSE study materials yourself
-                            at a
-                            fraction of the camp price. However, who has the willpower
+                            Hiệp hội lữ hành quốc tế đã công nhận du lịch là một ngành kinh tế lớn nhất thế giới vượt lên cả ngành sản xuất ô tô, thép điện tử và nông nghiệp. Vì vậy, du lịch đã trở thành một ngành kinh tế mũi nhọn của nhiều quốc gia trên thế giới.
                         </p>
                         <p>
-                            MCSE boot camps have its supporters and its detractors. Some people do not understand why
-                            you
-                            should have to spend money on boot camp when you can get the MCSE study materials yourself
-                            at a
-                            fraction of the camp price. However, who has the willpower to actually sit through a
-                            self-imposed MCSE training. who has the willpower to actually
+                            Thuật ngữ du lịch đã trở nên khá thông dụng, nó bắt nguồn từ tiếng Hy Lạp với ý nghĩa là đi một vòng. Du lịch gắn liền với nghỉ ngơi, giải trí, tuy nhiên do hoàn cảnh, thời gian và khu vực khác nhau, dưới mỗi góc độ nghiên cứu khác nhau nên khái niệm du lịch cũng không giống nhau.Luật Du lịch Việt Nam 2005 đã đưa ra khái niệm như sau:
                         </p>
                         <div class="quote-wrapper">
                             <div class="quotes">
-                                MCSE boot camps have its supporters and its detractors. Some people do not understand
-                                why you
-                                should have to spend money on boot camp when you can get the MCSE study materials
-                                yourself at
-                                a fraction of the camp price. However, who has the willpower to actually sit through a
-                                self-imposed MCSE training.
+                                “Du lịch là các hoạt động liên quan đến chuyến đi của con người ngoài nơi cư trú thường xuyên của mình nhằm đáp ứng nhu cầu tham quan, tìm hiểu, giải trí, nghỉ dưỡng trong một khoảng thời gian nhất định”.
                             </div>
                         </div>
                         <p>
-                            MCSE boot camps have its supporters and its detractors. Some people do not understand why
-                            you
-                            should have to spend money on boot camp when you can get the MCSE study materials yourself
-                            at a
-                            fraction of the camp price. However, who has the willpower
+                            Theo liên hiệp Quốc các tổ chức lữ hành chính thức( International Union of Official Travel Oragnization: IUOTO): Du lịch được hiểu là hành động du hành đến một nơi khác với điạ điểm cư trú thường xuyên cuả mình nhằm mục đích không phải để làm ăn, tức không phải để làm một nghề hay một việc kiếm tiền sinh sống...
                         </p>
                         <p>
-                            MCSE boot camps have its supporters and its detractors. Some people do not understand why
-                            you
-                            should have to spend money on boot camp when you can get the MCSE study materials yourself
-                            at a
-                            fraction of the camp price. However, who has the willpower to actually sit through a
-                            self-imposed MCSE training. who has the willpower to actually
+                            Tại hội nghị LHQ về du lịch họp tại Roma - Italia ( 21/8 – 5/9/1963), các chuyên gia đưa ra định nghĩa về du lịch: Du lịch là tổng hợp các mối quan hệ, hiện tượng và các hoạt động kinh tế bắt nguồn từ các cuộc hành trình và lưu trú cuả cá nhân hay tập thể ở bên ngoài nơi ở thường xuyên cuả họ hay ngoài nước họ với mục đích hoà bình. Nơi họ đến lưu trú không phải là nơi làm việc cuả họ. Theo các nhà du lịch Trung Quốc: họat động du lịch là tổng hoà hàng loạt quan hệ và hiện tượng lấy sự tồn tại và phát triển kinh tế, xã hội nhất định làm 7 cơ sở, lấy chủ thể du lịch, khách thể du lịch và trung gian du lịch làm điều kiện.
                         </p>
+                        <p>
+                            Theo I.I pirôgionic, 1985: Du lịch là một dạng hoạt động cuả dân cư trong thời gian rỗi liên quan với sự di chuyển và lưu lại tạm thời bên ngoài nơi cư trú thường xuyên nhằm nghĩ ngơi, chữa bệnh, phát triển thể chất và tinh thần, nâng cao trình độ nhận thức văn hoá hoặc thể thao kèm theo việc tiêu thụ những giá trị về tự nhiên, kinh tế và văn hoá.
+                        </p>
+                        <p>Theo nhà kinh tế học người Áo Josep Stander nhìn từ góc độ du khách: khách du lịch là loại khách đi theo ý thích ngoài nơi cư trú thường xuyên để thoả mãn sinh họat cao cấp mà không theo đuổi mục đích kinh tế.Nhìn từ góc độ thay đổi về không gian cuả du khách: du lịch là một trong những hình thức di chuyển tạm thời từ một vùng này sang một vùng khác, từ một nước này sang một nước khác mà không thay đổi nơi cư trú hay nơi làm việc.</p>
+                        <p>Nhìn từ góc độ kinh tế: Du lịch là một ngành kinh tế, dịch vụ có nhiệm vụ phục vụ cho nhu cầu tham quan giải trí nghĩ ngơi, có hoặc không kết hợp với các hoạt động chữa bệnh, thể thao, nghiên cứu khoa học và các nhu cầu khác. Theo Bản chất du lịch Nhìn từ góc độ nhu cầu của du khách: Du lịch là một sản phẩm tất yếu của sự phát triển kinh tế - xã hội của loài người đến một giai đoạn phát triển nhất định. chỉ trong hoàn cảnh kinh tế thị trường phát triển, gia tăng thu nhập bình quân đầu người, tăng thời gian rỗi do tiến bộ cuả khoa học - công nghệ, phương tiện giao thông và thông tin ngày càng phát triển, làm phát sinh nhu cầu nghĩ ngơi, tham quan du lịch cuả con người. Bản chất đích thực của du lịch là du ngoạn để cảm nhận những giá trị vật chất và tinh thần có tính văn hoá cao.</p>
+                        <p>Xét từ góc độ các quốc sách phát triển du lịch: Dựa trên nền tảng của tài nguyên du lịch để hoạch định chiến lược phát triển du lịch, định hướng các kế hoạch dài hạn, trung hạn và ngắn hạn. lựa chọn các sản phẩm du lịch độc đáo và đặc trưng từ nguốn nguyên liệu trên, đồng thời xác định phương hướng qui hoạch xây dựng cơ sở vật chất - kỹ thuật và cơ sở hạ tầng dịch vụ du lịch tương 8 ứng.Xét từ góc độ sản phẩm du lịch: sản phẩm đặc trưng cuả du lịch là các chương trình du lịch, nội dung chủ yếu cuả nó là sự liên kết những di tích lịch sử, di tích văn hoá và cảnh quan thiên nhiên nổi tiếng cùng với cơ sở vật chất - kỹ thuật như cơ sở lưu trú, ăn uống, vận chuyển.</p>
+                        <p>Xét từ góc độ thị trường du lịch: Mục đích chủ yếu của các nhà tiếp thị du lịch là tìm kiếm thị trường du lịch, tìm kiếm nhu cầu cuả du khách để “ mua chương trình du lịch”. </p>
                     </div>
                 </div>
                 <div class="navigation-top">
@@ -340,180 +284,7 @@
                 </div>
             </div>
             <div class="col-lg-4">
-                <div class="blog_right_sidebar">
-                    <aside class="single_sidebar_widget search_widget">
-                        <form action="#">
-                            <div class="form-group">
-                                <div class="input-group mb-3">
-                                    <input type="text" class="form-control" placeholder='Search Keyword'
-                                           onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search Keyword'">
-                                    <div class="input-group-append">
-                                        <button class="btn" type="button"><i class="ti-search"></i></button>
-                                    </div>
-                                </div>
-                            </div>
-                            <button class="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn" type="submit">
-                                Search
-                            </button>
-                        </form>
-                    </aside>
-                    <aside class="single_sidebar_widget post_category_widget">
-                        <h4 class="widget_title">Category</h4>
-                        <ul class="list cat-list">
-                            <li>
-                                <a href="#" class="d-flex">
-                                    <p>Resaurant food</p>
-                                    <p>(37)</p>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="d-flex">
-                                    <p>Travel news</p>
-                                    <p>(10)</p>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="d-flex">
-                                    <p>Modern technology</p>
-                                    <p>(03)</p>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="d-flex">
-                                    <p>Product</p>
-                                    <p>(11)</p>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="d-flex">
-                                    <p>Inspiration</p>
-                                    <p>(21)</p>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="d-flex">
-                                    <p>Health Care</p>
-                                    <p>(21)</p>
-                                </a>
-                            </li>
-                        </ul>
-                    </aside>
-                    <aside class="single_sidebar_widget popular_post_widget">
-                        <h3 class="widget_title">Recent Post</h3>
-                        <div class="media post_item">
-                            <img src="img/post/post_1.png" alt="post">
-                            <div class="media-body">
-                                <a href="single-blog.php">
-                                    <h3>From life was you fish...</h3>
-                                </a>
-                                <p>January 12, 2019</p>
-                            </div>
-                        </div>
-                        <div class="media post_item">
-                            <img src="img/post/post_2.png" alt="post">
-                            <div class="media-body">
-                                <a href="single-blog.php">
-                                    <h3>The Amazing Hubble</h3>
-                                </a>
-                                <p>02 Hours ago</p>
-                            </div>
-                        </div>
-                        <div class="media post_item">
-                            <img src="img/post/post_3.png" alt="post">
-                            <div class="media-body">
-                                <a href="single-blog.php">
-                                    <h3>Astronomy Or Astrology</h3>
-                                </a>
-                                <p>03 Hours ago</p>
-                            </div>
-                        </div>
-                        <div class="media post_item">
-                            <img src="img/post/post_4.png" alt="post">
-                            <div class="media-body">
-                                <a href="single-blog.php">
-                                    <h3>Asteroids telescope</h3>
-                                </a>
-                                <p>01 Hours ago</p>
-                            </div>
-                        </div>
-                    </aside>
-                    <aside class="single_sidebar_widget tag_cloud_widget">
-                        <h4 class="widget_title">Tag Clouds</h4>
-                        <ul class="list">
-                            <li>
-                                <a href="#">project</a>
-                            </li>
-                            <li>
-                                <a href="#">love</a>
-                            </li>
-                            <li>
-                                <a href="#">technology</a>
-                            </li>
-                            <li>
-                                <a href="#">travel</a>
-                            </li>
-                            <li>
-                                <a href="#">restaurant</a>
-                            </li>
-                            <li>
-                                <a href="#">life style</a>
-                            </li>
-                            <li>
-                                <a href="#">design</a>
-                            </li>
-                            <li>
-                                <a href="#">illustration</a>
-                            </li>
-                        </ul>
-                    </aside>
-                    <aside class="single_sidebar_widget instagram_feeds">
-                        <h4 class="widget_title">Instagram Feeds</h4>
-                        <ul class="instagram_row flex-wrap">
-                            <li>
-                                <a href="#">
-                                    <img class="img-fluid" src="img/post/post_5.png" alt="">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <img class="img-fluid" src="img/post/post_6.png" alt="">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <img class="img-fluid" src="img/post/post_7.png" alt="">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <img class="img-fluid" src="img/post/post_8.png" alt="">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <img class="img-fluid" src="img/post/post_9.png" alt="">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <img class="img-fluid" src="img/post/post_10.png" alt="">
-                                </a>
-                            </li>
-                        </ul>
-                    </aside>
-                    <aside class="single_sidebar_widget newsletter_widget">
-                        <h4 class="widget_title">Newsletter</h4>
-                        <form action="#">
-                            <div class="form-group">
-                                <input type="email" class="form-control" onfocus="this.placeholder = ''"
-                                       onblur="this.placeholder = 'Enter email'" placeholder='Enter email' required>
-                            </div>
-                            <button class="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn" type="submit">
-                                Subscribe
-                            </button>
-                        </form>
-                    </aside>
-                </div>
+                <?php include 'leftcategory.php';?>
             </div>
         </div>
     </div>
