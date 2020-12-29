@@ -42,6 +42,10 @@
                 <a href="huong-dan-vien-du-lich-3.php" class="d-flex">
                     <p>5 . Hướng dẫn viên du lịch (P3)</p>
                 </a>
+            </li><li>
+                <a href="cac-chuan-muc-dao-duc-huong-dan-vien.php" class="d-flex">
+                    <p>6 . Các chuẩn mực đạo đức hướng dẫn viên</p>
+                </a>
             </li>
         </ul>
     </aside>

@@ -16,9 +16,17 @@
                                 <ul id="navigation">
                                     <li><a class="active" href="index-2.php">Trang chủ</a></li>
                                     <li><a href="service.php">services</a></li>
-                                    <li><a href="Portfolio.php">Portfolio</a></li>
-                                    <li><a href="#">pages <i class="ti-angle-down"></i></a>
+                                    <li><a href="#">Giải đáp tình huống<i class="ti-angle-down"></i></a>
                                         <ul class="submenu">
+                                            <li><a href="portfolio_details.php">Tình huống 1</a></li>
+                                            <li><a href="portfolio_details.php">Portfolio details</a></li>
+                                            <li><a href="portfolio_details.php">Portfolio details</a></li>
+                                            <li><a href="portfolio_details.php">Portfolio details</a></li>
+                                            <li><a href="portfolio_details.php">Portfolio details</a></li>
+                                            <li><a href="portfolio_details.php">Portfolio details</a></li>
+                                            <li><a href="portfolio_details.php">Portfolio details</a></li>
+                                            <li><a href="portfolio_details.php">Portfolio details</a></li>
+                                            <li><a href="portfolio_details.php">Portfolio details</a></li>
                                             <li><a href="portfolio_details.php">Portfolio details</a></li>
                                             <li><a href="about.php">about</a></li>
                                             <li><a href="elements.php">elements</a></li>
@@ -26,8 +34,7 @@
                                     </li>
                                     <li><a href="#" title="Bài viết">Bài viết  <i class="ti-angle-down"></i></a>
                                         <ul class="submenu">
-                                            <li><a href="blog.php">blog</a></li>
-                                            <li><a href="du-lich-la-gi.php">Du lịch là gì ?</a></li>
+                                            <li><a href="blog.php">Danh sách bài viết</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="contact.php">Contact</a></li>

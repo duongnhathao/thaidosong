@@ -61,6 +61,26 @@
         <div class="row">
             <div class="col-lg-8 mb-5 mb-lg-0">
                 <div class="blog_left_sidebar">
+                    <article class="blog_item">
+                        <div class="blog_item_img">
+                            <img class="card-img rounded-0" src="img/blog/dulichlagi/4_69.jpg"
+                                 alt="Các chuẩn mực đạo đức về HDV">
+                            <a href="cac-chuan-muc-dao-duc-huong-dan-vien.php" class="blog_item_date">
+                                <h3>1</h3>
+                                <p>Jan</p>
+                            </a>
+                        </div>
+                        <div class="blog_details">
+                            <a class="d-inline-block" href="cac-chuan-muc-dao-duc-huong-dan-vien.php">
+                                <h2>Các chuẩn mực đạo đức về HDV</h2>
+                            </a>
+
+                            <ul class="blog-info-link">
+                                <li><a href="huong-dan-vien-du-lich-2.php"><i class="fa fa-user"></i> Travel, Lifestyle</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </article>
 
                     <article class="blog_item">
                         <div class="blog_item_img">
@@ -75,13 +95,17 @@
                             <a class="d-inline-block" href="huong-dan-vien-du-lich-3.php">
                                 <h2>Hướng dẫn viên du lịch (P3)</h2>
                             </a>
-                            <p> Để làm một hướng dẫn viên du lịch theo đúng quy định của pháp luật thì người hướng dẫn viên
-                                cần phải có thẻ hướng dẫn viên du lịch quốc tế hoặc nội địa. Theo Luật du lịch nếu hướng dẫn
-                                viên du lịch không có, không đeo hoặc cho mượn thẻ hướng dẫn trong lúc đang hành nghề thì sẽ
+                            <p> Để làm một hướng dẫn viên du lịch theo đúng quy định của pháp luật thì người hướng dẫn
+                                viên
+                                cần phải có thẻ hướng dẫn viên du lịch quốc tế hoặc nội địa. Theo Luật du lịch nếu hướng
+                                dẫn
+                                viên du lịch không có, không đeo hoặc cho mượn thẻ hướng dẫn trong lúc đang hành nghề
+                                thì sẽ
                                 bị phạt...</p>
                             </p>
                             <ul class="blog-info-link">
-                                <li><a href="huong-dan-vien-du-lich-2.php"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
+                                <li><a href="huong-dan-vien-du-lich-2.php"><i class="fa fa-user"></i> Travel, Lifestyle</a>
+                                </li>
                             </ul>
                         </div>
                     </article>
@@ -102,7 +126,8 @@
                                 làm hướng dẫn viên du lịch sử dụng ngôn ngữ phù hợp để giới thiệu,...</p>
                             </p>
                             <ul class="blog-info-link">
-                                <li><a href="huong-dan-vien-du-lich-2.php"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
+                                <li><a href="huong-dan-vien-du-lich-2.php"><i class="fa fa-user"></i> Travel, Lifestyle</a>
+                                </li>
                             </ul>
                         </div>
                     </article>
@@ -123,7 +148,8 @@
                                 làm hướng dẫn viên du lịch sử dụng ngôn ngữ phù hợp để giới thiệu,...</p>
                             </p>
                             <ul class="blog-info-link">
-                                <li><a href="huong-dan-vien-du-lich.php"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
+                                <li><a href="huong-dan-vien-du-lich.php"><i class="fa fa-user"></i> Travel,
+                                        Lifestyle</a></li>
                             </ul>
                         </div>
                     </article>
@@ -165,30 +191,30 @@
                             </ul>
                         </div>
                     </article>
-<!--                    <nav class="blog-pagination justify-content-center d-flex">-->
-<!--                        <ul class="pagination">-->
-<!--                            <li class="page-item">-->
-<!--                                <a href="#" class="page-link" aria-label="Previous">-->
-<!--                                    <i class="ti-angle-left"></i>-->
-<!--                                </a>-->
-<!--                            </li>-->
-<!--                            <li class="page-item">-->
-<!--                                <a href="#" class="page-link">1</a>-->
-<!--                            </li>-->
-<!--                            <li class="page-item active">-->
-<!--                                <a href="#" class="page-link">2</a>-->
-<!--                            </li>-->
-<!--                            <li class="page-item">-->
-<!--                                <a href="#" class="page-link" aria-label="Next">-->
-<!--                                    <i class="ti-angle-right"></i>-->
-<!--                                </a>-->
-<!--                            </li>-->
-<!--                        </ul>-->
-<!--                    </nav>-->
+                    <!--                    <nav class="blog-pagination justify-content-center d-flex">-->
+                    <!--                        <ul class="pagination">-->
+                    <!--                            <li class="page-item">-->
+                    <!--                                <a href="#" class="page-link" aria-label="Previous">-->
+                    <!--                                    <i class="ti-angle-left"></i>-->
+                    <!--                                </a>-->
+                    <!--                            </li>-->
+                    <!--                            <li class="page-item">-->
+                    <!--                                <a href="#" class="page-link">1</a>-->
+                    <!--                            </li>-->
+                    <!--                            <li class="page-item active">-->
+                    <!--                                <a href="#" class="page-link">2</a>-->
+                    <!--                            </li>-->
+                    <!--                            <li class="page-item">-->
+                    <!--                                <a href="#" class="page-link" aria-label="Next">-->
+                    <!--                                    <i class="ti-angle-right"></i>-->
+                    <!--                                </a>-->
+                    <!--                            </li>-->
+                    <!--                        </ul>-->
+                    <!--                    </nav>-->
                 </div>
             </div>
             <div class="col-lg-4">
-                <?php include "leftcategory.php"?>
+                <?php include "leftcategory.php" ?>
             </div>
         </div>
     </div>
