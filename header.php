@@ -24,10 +24,10 @@
                                             <li><a href="elements.php">elements</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="#">blog <i class="ti-angle-down"></i></a>
+                                    <li><a href="#" title="Bài viết">Bài viết  <i class="ti-angle-down"></i></a>
                                         <ul class="submenu">
                                             <li><a href="blog.php">blog</a></li>
-                                            <li><a href="single-blog.php">single-blog</a></li>
+                                            <li><a href="du-lich-la-gi.php">Du lịch là gì ?</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="contact.php">Contact</a></li>

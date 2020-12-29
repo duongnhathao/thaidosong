@@ -165,8 +165,7 @@
                         <p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Thuật ngữ du lịch đã trở nên khá thông dụng, nó bắt nguồn từ tiếng Hy Lạp với ý nghĩa là đi một vòng. Du lịch gắn liền với nghỉ ngơi, giải trí, tuy nhiên do hoàn cảnh, thời gian và khu vực khác nhau, dưới mỗi góc độ nghiên cứu khác nhau nên khái niệm du lịch cũng không giống nhau.
                         </p>
                         <p class="last_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">“Du lịch là các hoạt động liên quan đến chuyến đi của con người ngoài nơi cư trú thường xuyên của mình nhằm đáp ứng nhu cầu tham quan, tìm hiểu, giải trí, nghỉ dưỡng trong một khoảng thời gian nhất định”</p>
-                        <a href="#" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">About
-                            Us</a>
+                        <a href="du-lich-la-gi.php" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">Tìm hiểu thêm</a>
                     </div>
                 </div>
             </div>

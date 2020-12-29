@@ -14,7 +14,7 @@
     <meta property="og:site_name" content="Life Skills: Du lịch là gì ?">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Life Skills: Du lịch là gì ?">
-    <meta property="og:description" content="Life Skills: Du lịch là gì ?">
+    <meta property="og:description" content="Hiệp hội lữ hành quốc tế đã công nhận du lịch là một ngành kinh tế lớn nhất thế giới vượt lên cả ngành sản xuất ô tô, thép điện tử và nông nghiệp. Vì vậy, du lịch đã trở thành một ngành kinh tế mũi nhọn của nhiều quốc gia trên thế giới.">
     <meta property="og:image" content="img/blog/dulichlagi/anhbia.jpg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
@@ -113,22 +113,7 @@
                     <div class="navigation-area">
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
-                                <div class="thumb">
-                                    <a href="#">
-                                        <img class="img-fluid" src="img/post/preview.png" alt="">
-                                    </a>
-                                </div>
-                                <div class="arrow">
-                                    <a href="#">
-                                        <span class="lnr text-white ti-arrow-left"></span>
-                                    </a>
-                                </div>
-                                <div class="detials">
-                                    <p>Prev Post</p>
-                                    <a href="#">
-                                        <h4>Space The Final Frontier</h4>
-                                    </a>
-                                </div>
+                                
                             </div>
                             <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
                                 <div class="detials">
