@@ -68,7 +68,8 @@
                         <h2>Sản phẩm du lịch cũng là một dạng sản phẩm nhằm thoả mãn nhu cầu du lịch của con người.
                         </h2>
                         <ul class="blog-info-link mt-3 mb-4">
-                            <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle , Life Skills</a></li>
+                            <li><a href="#" class="font-italic"><i class="fa fa-calendar"></i> Dec,29 2020</a></li>
+
                         </ul>
                         <p class="excert">
                             Nhu cầu du lịch là sự mong muốn của con người đi đến một nơi khác với nơi ở của mình để có

@@ -68,7 +68,8 @@
                         <h2>Hướng dẫn viên du lịch (P2)
                         </h2>
                         <ul class="blog-info-link mt-3 mb-4">
-                            <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
+                            <li><a href="#" class="font-italic"><i class="fa fa-calendar "></i> Dec,31 2020</a></li>
+
                         </ul>
                         <h3>Yêu cầu cần có của một hướng dẫn viên du lịch
                         </h3>

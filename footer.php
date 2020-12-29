@@ -21,10 +21,10 @@
                                    href="#">Portfolio</a></li>
                             <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".8s" href="#">Pages</a>
                             </li>
-                            <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="1s" href="#">Blog</a>
+                            <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="1s" href="blog.php">Bài viết </a>
                             </li>
                             <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="1.1s"
-                                   href="#">Contact</a></li>
+                                   href="contact.php">Liên hệ</a></li>
                         </ul>
                     </div>
                 </div>
@@ -53,9 +53,7 @@
                     <p class="copy_right text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.3s">
 
                         Copyright &copy;<script>document.write(new Date().getFullYear());</script>
-                        All rights reserved | This template is made with <i class="fa fa-heart-o"
-                                                                            aria-hidden="true"></i> by <a
-                                href="../../../colorlib.com/index.php" target="_blank">Colorlib</a>
+                        All rights reserved | Ba chấm team - TDTU Life Skills - Thái độ sống 3
 
                     </p>
                 </div>

@@ -48,7 +48,7 @@
         <div class="row">
             <div class="col-xl-12">
                 <div class="bradcam_text">
-                    <h3>CÁC CHUẨN MỰC ĐẠO ĐỨC VỀ NGHỀ NGHIỆP HDV</h3>
+                    <h3>Các chuẩn mực đạo đức nghề nghiệp HDV</h3>
                 </div>
             </div>
         </div>
@@ -68,7 +68,8 @@
                         <h2>CÁC CHUẨN MỰC ĐẠO ĐỨC VỀ NGHỀ NGHIỆP HDV
                         </h2>
                         <ul class="blog-info-link mt-3 mb-4">
-                            <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
+                            <li><a href="#" class="font-italic"><i class="fa fa-calendar"></i> Jan,1 2020</a></li>
+
                         </ul>
                         <p class="excert">
                             1.Không cấu kết với lái xe, điểm mua sắm, đơn vị cung ứng dịch vụ để trục lợi từ khách hàng.

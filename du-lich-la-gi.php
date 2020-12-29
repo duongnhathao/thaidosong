@@ -67,7 +67,7 @@
                         <h2>Ngày nay du lịch trở thành một hiện tượng kinh tế xã hội phổ biến.
                         </h2>
                         <ul class="blog-info-link mt-3 mb-4">
-                            <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
+                            <li><a href="#"><i class="fa fa-calendar" class="font-italic"></i> Dec,28 2020</a></li>
                         </ul>
                         <p class="excert">
                             Hiệp hội lữ hành quốc tế đã công nhận du lịch là một ngành kinh tế lớn nhất thế giới vượt lên cả ngành sản xuất ô tô, thép điện tử và nông nghiệp. Vì vậy, du lịch đã trở thành một ngành kinh tế mũi nhọn của nhiều quốc gia trên thế giới.

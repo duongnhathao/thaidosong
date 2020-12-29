@@ -67,7 +67,8 @@
                         <h2>Hướng dẫn viên du lịch
                         </h2>
                         <ul class="blog-info-link mt-3 mb-4">
-                            <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
+                            <li><a href="#" class="font-italic"><i class="fa fa-calendar"></i> Dec,30 2020</a></li>
+
                         </ul>
                         <h3>Khái niệm hướng dẫn viên du lịch
                         </h3>
@@ -130,12 +131,12 @@
                                     </a>
                                 </div>
                                 <div class="arrow">
-                                    <a href="huong-dan-vien-du-lich-2.php.php">
+                                    <a href="huong-dan-vien-du-lich-2.php">
                                         <span class="lnr text-white ti-arrow-right"></span>
                                     </a>
                                 </div>
                                 <div class="thumb">
-                                    <a href="huong-dan-vien-du-lich-2.php.php">
+                                    <a href="huong-dan-vien-du-lich-2.php">
                                         <img class="img-fluid" src="img/blog/dulichlagi/sanphamdulichj.jpg" style="max-width: 60px" alt="Bài tiếp theo : Sản phẩm du lịch">
                                     </a>
                                 </div>

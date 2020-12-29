@@ -823,7 +823,7 @@ h3 {
     text-transform: capitalize;
     font-weight: 600;
     display: inline-block;
-    padding: 40px 0;
+    padding: 30px 0;
     font-family: muli, sans-serif;
     position: relative
 }
@@ -1895,7 +1895,7 @@ h3 {
 }
 
 .bradcam_area h3 {
-    font-size: 78px;
+    font-size: 50px;
     color: #fff;
     font-weight: 400;
     margin-bottom: 0;
