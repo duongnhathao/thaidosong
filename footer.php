@@ -13,16 +13,9 @@
                     <div class="menu_links">
                         <ul>
                             <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".2s"
-                                   href="#">About</a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+                                   href="blog.php">Bài viết</a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
                             </li>
-                            <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".4s"
-                                   href="#">Services</a></li>
-                            <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".6s"
-                                   href="#">Portfolio</a></li>
-                            <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".8s" href="#">Pages</a>
-                            </li>
-                            <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="1s" href="blog.php">Bài viết </a>
-                            </li>
+
                             <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="1.1s"
                                    href="contact.php">Liên hệ</a></li>
                         </ul>
@@ -31,14 +24,8 @@
                 <div class="col-lg-3 col-md-12">
                     <div class="socail_links">
                         <ul>
-                            <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" href="#"> <i
-                                            class="fa fa-facebook"></i> </a></li>
-                            <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s" href="#"> <i
-                                            class="fa fa-twitter"></i> </a></li>
-                            <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" href="#"> <i
-                                            class="fa fa-instagram"></i> </a></li>
-                            <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" href="#"> <i
-                                            class="fa fa-google-plus"></i> </a></li>
+                            <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" href="https://m.me/demofanbageforwebsite"> <i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+
                         </ul>
                     </div>
                 </div>
