@@ -11,4 +11,19 @@
   max-width: 150px;
 }
 
+@media screen and (max-width: 991px) {
+  .about_area {
+    background-image: url(../img/about/about.jpg) !important;
+    /* background: #1f1f1f; */
+    position: relative !important;
+    background-position: center !important;
+    background-origin: initial !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+  }
+  .about_area .container {
+    color: black !important;
+  }
+}
+
 /*# sourceMappingURL=demo.css.map */

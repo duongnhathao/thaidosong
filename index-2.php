@@ -54,8 +54,13 @@
                         </h3>
                         <!--                        <a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s"-->
                         <!--                           href="portfolio-2.php">Visit Our Works</a>-->
-                        <a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s"
-                           href="blog.php">Tìm hiểu thêm</a>
+                        <a class=" wow fadeInLeft cta" data-wow-duration="1s" data-wow-delay=".2s"
+                           href="blog.php"><span>Tìm hiểu thêm</span><svg width="13px" height="10px" style="color: white" viewBox="0 0 13 10">
+                                <path d="M1,5 L11,5"></path>
+                                <polyline points="8 1 12 5 8 9"></polyline>
+                            </svg></a>
+
+
                     </div>
                 </div>
             </div>
@@ -126,8 +131,18 @@
                             hoạt động liên quan đến chuyến đi của con người ngoài nơi cư trú thường xuyên của mình nhằm
                             đáp ứng nhu cầu tham quan, tìm hiểu, giải trí, nghỉ dưỡng trong một khoảng thời gian nhất
                             định”</p>
-                        <a href="du-lich-la-gi.php" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s"
-                           data-wow-delay=".7s">Tìm hiểu thêm</a>
+
+                        <div >
+                            <div class="flip">
+                                <a href="du-lich-la-gi.php" target="_blank" class="wow fadeInUp" data-wow-duration="1s"
+                                   data-wow-delay=".7s"">
+                                    <div class="front">Tìm hiểu thêm</div>
+                                    <div class="back">Đi đến trang</div>
+                                </a>
+                            </div>
+                        </div>
+<!--                        <a href="du-lich-la-gi.php" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s"-->
+<!--                           data-wow-delay=".7s">Tìm hiểu thêm</a>-->
                     </div>
                 </div>
             </div>
@@ -155,7 +170,7 @@
                         <div class="title">
                             <span>Bài viết</span>
                             <h3>Du lịch là gì ?</h3>
-                            <a class="boxed-btn3" href="du-lich-la-gi.php">View</a>
+                            <a class="boxed-btn3" href="du-lich-la-gi.php">Xem</a>
                         </div>
                     </div>
                 </div>
@@ -228,16 +243,14 @@
                     <div class="section_title">
                         <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Quá trình làm việc</h3>
                         <p class="mid_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">“ Đây là video quay lại quá trình làm việc của team ”</p>
-                        <p class="last_p wow fadeInRight" data-wow-duration="1s" data-wow-delay=".5s">Efficiently
-                            unleash cross-media tour function information without cross action media value. Quickly
-                            maximize timely deliverables for real-time schemas.</p>
+                        <p class="last_p wow fadeInRight" data-wow-duration="1s" data-wow-delay=".5s">Do trong quá trình thực hiện môn học nằm trong giai đoạn bùng phát COVID-19 nên team sử dụng các biện pháp họp mặt online.</p>
                     </div>
                     <div class="video_watch d-flex align-items-center">
                         <div class="play_btn wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
-                            <a href="../../../www.youtube.com/watch87d3.php?v=D7tF-cY2M9o"
+                            <a href="https://www.youtube.com/watch?v=AIY37152iSo"
                                class="video_icon popup-video"> <i class="fa fa-play"></i> </a>
                         </div>
-                        <span class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".7s"> Watch Video</span>
+                        <span class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".7s"> Xem</span>
                     </div>
                 </div>
             </div>
