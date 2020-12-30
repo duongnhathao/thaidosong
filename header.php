@@ -15,7 +15,7 @@
                             <nav>
                                 <ul id="navigation">
                                     <li><a class="active" href="index-2.php">Trang chủ</a></li>
-                                    <li><a href="service.php">services</a></li>
+<!--                                    <li><a href="service.php">services</a></li>-->
 <!--                                    <li><a href="#">Giải đáp tình huống<i class="ti-angle-down"></i></a>-->
 <!--                                        <ul class="submenu">-->
 <!--                                            <li><a href="q&a-tinh-huong-1.php" title="Hướng dẫn viên đưa đoàn khách về khách sạn đã đặt theo đúng hợp đồng nhưng khách không chịu ở và yêu cầu đổi khách sạn với lý do khách đã trả tiền rất nhiều?">Yêu cầu đổi khách sạn</a></li>-->
