@@ -1,6 +1,7 @@
 @import "https://fonts.googleapis.com/css?family=Muli:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&amp;display=swap";
 @import "https://fonts.googleapis.com/css?family=Muli:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&amp;display=swap";
 @import "demo.css";
+
 body {
     font-family: muli, sans-serif;
     font-weight: 400;
@@ -1835,6 +1836,7 @@ h3 {
     border: 1px solid #e7f9f9;
     font-size: 14px
 }
+
 .flip {
     position: relative;
     width: 200px;
@@ -1847,6 +1849,7 @@ h3 {
     left: 50%;
     margin: -24px 0 0 -80px;
 }
+
 .flip a {
     font-weight: 400;
     text-transform: uppercase;
@@ -1872,6 +1875,7 @@ h3 {
     transition: transform 0.3s;
     cursor: pointer;
 }
+
 .flip a .front,
 .flip a .back {
     font-size: 15px;
@@ -1883,6 +1887,7 @@ h3 {
     text-align: center;
     letter-spacing: 0.4em;
 }
+
 .flip a .front {
     background-color: #222;
     color: #fff;
@@ -1892,9 +1897,10 @@ h3 {
     -ms-transform: rotateY(0) translateZ(24px);
     transform: rotateY(0) translateZ(24px);
 }
+
 .flip a .back {
-    background-color: rgba(255,255,255,0);
-    color: rgba(34,34,34,0);
+    background-color: rgba(255, 255, 255, 0);
+    color: rgba(34, 34, 34, 0);
     -webkit-transform: rotateX(90deg) translateZ(24px);
     -moz-transform: rotateX(90deg) translateZ(24px);
     -o-transform: rotateX(90deg) translateZ(24px);
@@ -1902,6 +1908,7 @@ h3 {
     transform: rotateX(90deg) translateZ(24px);
     overflow: hidden;
 }
+
 .flip a .back:after {
     content: '';
     position: absolute;
@@ -1926,6 +1933,7 @@ h3 {
     -ms-transition-delay: 0.15s;
     transition-delay: 0.15s;
 }
+
 .flip a:hover {
     -webkit-transform: translateZ(-24px) rotateX(-90deg);
     -moz-transform: translateZ(-24px) rotateX(-90deg);
@@ -1933,6 +1941,7 @@ h3 {
     -ms-transform: translateZ(-24px) rotateX(-90deg);
     transform: translateZ(-24px) rotateX(-90deg);
 }
+
 .flip a:hover .front {
     background: #000;
     -webkit-transition: all 0.8s ease;
@@ -1941,6 +1950,7 @@ h3 {
     -ms-transition: all 0.8s ease;
     transition: all 0.8s ease;
 }
+
 .flip a:hover .back {
     color: #222;
     -webkit-transition: color 0.4s linear;
@@ -1950,6 +1960,7 @@ h3 {
     transition: color 0.4s linear;
     background: #fff;
 }
+
 .flip a:hover .back:after {
     -webkit-transform: rotate(6deg) translate(100px, -18px);
     -moz-transform: rotate(6deg) translate(100px, -18px);
@@ -1967,6 +1978,7 @@ h3 {
     padding: 19px 22px;
     transition: all 0.2s ease;
 }
+
 .cta:before {
     content: "";
     position: absolute;
@@ -1979,18 +1991,21 @@ h3 {
     height: 56px;
     transition: all 0.3s ease;
 }
+
 .cta span {
     position: relative;
-    font-size: 16px!important;
+    font-size: 16px !important;
     line-height: 18px;
     font-weight: 900;
     letter-spacing: 0.25em;
     text-transform: uppercase;
     vertical-align: middle;
 }
-.cta span:before{
-    height: 0px!important;
+
+.cta span:before {
+    height: 0px !important;
 }
+
 .cta svg {
     position: relative;
     top: 0;
@@ -2003,16 +2018,20 @@ h3 {
     transform: translateX(-5px);
     transition: all 0.3s ease;
 }
+
 .cta:hover:before {
     width: 100%;
     background: #ffab9d;
 }
+
 .cta:hover svg {
     transform: translateX(0);
 }
+
 .cta:active {
     transform: scale(0.96);
 }
+
 .footer .socail_links ul li a:hover {
     color: #fff !important;
     background: #615cfd;
@@ -2029,17 +2048,36 @@ h3 {
 
 .breadcam_bg_3 {
     background-image: url(../img/banner/bradcam_3.png)
-}.breadcam_bg_contact {
-    background-position: center!important;
+}
+
+.breadcam_bg_contact {
+    background-position: center !important;
     background-image: url(../img/blog/dulichlagi/header-Contact-us.jpg)
 }
+
 .breadcam_bg_dulichlagi {
     background-image: url(../img/blog/dulichlagi/anhbia.jpg);
-}.breadcam_bg_sanphamdulich {
+}
+
+.breadcam_bg_sanphamdulich {
     background-image: url(../img/blog/dulichlagi/sanphamdulichj.jpg);
-}.breadcam_bg_huongdanvien {
+}
+
+.breadcam_bg_huongdanvien {
     background-image: url(../img/blog/dulichlagi/tour-guid.png);
-}.breadcam_bg_banner1 {
+}
+
+.breadcam_bg_huongdanvien2 {
+    background-image: url(../img/blog/dulichlagi/0-dl-phuc-hoi.jpg);
+}
+
+.breadcam_bg_qa {
+    background-position: center !important;
+
+    background-image: url(../img/blog/dulichlagi/Self-Publishing-Q-and-A.jpg);
+}
+
+.breadcam_bg_banner1 {
     background-image: url(../img/banner/banner1.jpg);
 }
 

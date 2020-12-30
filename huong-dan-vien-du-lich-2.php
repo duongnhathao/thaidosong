@@ -43,7 +43,7 @@
 
 <?php include 'header.php'; ?>
 
-<div class="bradcam_area breadcam_bg_huongdanvien   ">
+<div class="bradcam_area breadcam_bg_huongdanvien2   ">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
@@ -62,7 +62,7 @@
             <div class="col-lg-8 posts-list">
                 <div class="single-post">
                     <div class="feature-img">
-                        <img class="img-fluid" src="img/blog/dulichlagi/huongdan3.jpg" alt="Ảnh bìa">
+                        <img class="img-fluid" src="img/blog/dulichlagi/0-dl-phuc-hoi.jpg" alt="Ảnh bìa">
                     </div>
                     <div class="blog_details">
                         <h2>Hướng dẫn viên du lịch (P2)

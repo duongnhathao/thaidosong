@@ -62,7 +62,7 @@
                 <div class="blog_left_sidebar">
                     <article class="blog_item">
                         <div class="blog_item_img">
-                            <img class="card-img rounded-0" src="img/blog/dulichlagi/4_69.jpg"
+                            <img class="card-img rounded-0" src="img/blog/dulichlagi/frame-tree-cartoon-flower-heart.jpg"
                                  alt="Các chuẩn mực đạo đức về HDV">
                             <a href="cac-chuan-muc-dao-duc-huong-dan-vien.php" class="blog_item_date">
                                 <h3>1</h3>
@@ -75,7 +75,7 @@
                             </a>
 
                             <ul class="blog-info-link">
-                                <li><a href="huong-dan-vien-du-lich-2.php"><i class="fa fa-user"></i> Travel, Lifestyle</a>
+                                <li><a href="huong-dan-vien-du-lich-2.php"><i class="fa fa-user"></i> Lộc, Dũng</a>
                                 </li>
                             </ul>
                         </div>
@@ -83,7 +83,7 @@
 
                     <article class="blog_item">
                         <div class="blog_item_img">
-                            <img class="card-img rounded-0" src="img/blog/dulichlagi/4_69.jpg"
+                            <img class="card-img rounded-0" src="img/blog/dulichlagi/huongdan3.jpg"
                                  alt="Hướng dẫn viên du lịch (P3)">
                             <a href="huong-dan-vien-du-lich-3.php" class="blog_item_date">
                                 <h3>31</h3>
@@ -103,14 +103,14 @@
                                 bị phạt...</p>
                             </p>
                             <ul class="blog-info-link">
-                                <li><a href="huong-dan-vien-du-lich-2.php"><i class="fa fa-user"></i> Travel, Lifestyle</a>
+                                <li><a href="huong-dan-vien-du-lich-2.php"><i class="fa fa-user"></i> Tâm, Lộc</a>
                                 </li>
                             </ul>
                         </div>
                     </article>
                     <article class="blog_item">
                         <div class="blog_item_img">
-                            <img class="card-img rounded-0" src="img/blog/dulichlagi/4_69.jpg"
+                            <img class="card-img rounded-0" src="img/blog/dulichlagi/0-dl-phuc-hoi.jpg"
                                  alt="Hướng dẫn viên du lịch (P2)">
                             <a href="huong-dan-vien-du-lich-2.php" class="blog_item_date">
                                 <h3>31</h3>
@@ -125,7 +125,7 @@
                                 làm hướng dẫn viên du lịch sử dụng ngôn ngữ phù hợp để giới thiệu,...</p>
                             </p>
                             <ul class="blog-info-link">
-                                <li><a href="huong-dan-vien-du-lich-2.php"><i class="fa fa-user"></i> Travel, Lifestyle</a>
+                                <li><a href="huong-dan-vien-du-lich-2.php"><i class="fa fa-user"></i> Lộc, Dũng</a>
                                 </li>
                             </ul>
                         </div>
@@ -147,8 +147,7 @@
                                 làm hướng dẫn viên du lịch sử dụng ngôn ngữ phù hợp để giới thiệu,...</p>
                             </p>
                             <ul class="blog-info-link">
-                                <li><a href="huong-dan-vien-du-lich.php"><i class="fa fa-user"></i> Travel,
-                                        Lifestyle</a></li>
+                                <li><a href="huong-dan-vien-du-lich.php"><i class="fa fa-user"></i> Tâm</a></li>
                             </ul>
                         </div>
                     </article>
@@ -168,7 +167,7 @@
                             <p>Sản phẩm du lịch cũng là một dạng sản phẩm nhằm thoả mãn nhu cầu du lịch của con
                                 người.</p>
                             <ul class="blog-info-link">
-                                <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
+                                <li><a href="#"><i class="fa fa-user"></i> Tâm</a></li>
                             </ul>
                         </div>
                     </article>
@@ -186,7 +185,7 @@
                             </a>
                             <p>Ngày nay du lịch trở thành một hiện tượng kinh tế xã hội phổ biến.</p>
                             <ul class="blog-info-link">
-                                <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
+                                <li><a href="#"><i class="fa fa-user"></i> Tâm</a></li>
                             </ul>
                         </div>
                     </article>
