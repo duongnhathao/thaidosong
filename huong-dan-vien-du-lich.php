@@ -10,10 +10,10 @@
     <title>Tổng quan về hướng dẫn viên du lịch | Life Skills - Ba Chấm Team</title>
     <meta name="description" content="Du lịch là gì ?">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Life Skills: Hướng dẫn viên du lịch">
-    <meta property="og:site_name" content="Life Skills: Hướng dẫn viên du lịch">
+    <meta name="description" content="Life Skills: Tổng quan về hướng dẫn viên du lịch">
+    <meta property="og:site_name" content="Life Skills: Tổng quan về hướng dẫn viên du lịch">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Life Skills: Hướng dẫn viên du lịch">
+    <meta property="og:title" content="Life Skills: Tổng quan về hướng dẫn viên du lịch">
     <meta property="og:description" content="Hướng dẫn viên du lịch là một vị trí, một công việc thuộc ngành dịch vụ du lịch. Người làm hướng dẫn viên du lịch sử dụng ngôn ngữ phù hợp để giới thiệu, giải thích, trình bày cho du khách về văn hóa, lịch sử, ý nghĩa của các địa danh tham quan. ">
     <meta property="og:image" content="img/blog/dulichlagi/tour-guid.png">
     <meta property="og:image:width" content="1200">

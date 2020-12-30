@@ -45,7 +45,7 @@
 <?php include "header.php"?>
 
 
-<div class="bradcam_area breadcam_bg_3">
+<div class="bradcam_area breadcam_bg_contact">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
@@ -60,15 +60,13 @@
 
 <section class="contact-section section_padding">
     <div class="container">
-        <div class="d-none d-sm-block mb-5 pb-4">
-            <div class="mapouter"><div class="gmap_canvas"><iframe width="1080" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=ton%20duc%20thang%20university&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://fmovies2.org">fmovies it</a></div><style>.mapouter{position:relative;text-align:right;height:500px;width:1080px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:1080px;}</style></div>
-        </div>
-        <div class="row">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3920.032104443289!2d106.69683731541954!3d10.73200726294516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528b2747a81a3%3A0x33c1813055acb613!2zVMO0biDEkOG7qWMgVGjhuq9uZyBVbml2ZXJzaXR5!5e0!3m2!1sen!2s!4v1609309790379!5m2!1sen!2s" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        <div class="row mt-5">
             <div class="col-12">
-                <h2 class="contact-title">Get in Touch</h2>
+                <h2 class="contact-title mb-2">Get in Touch</h2>
             </div>
             <div class="col-lg-8">
-                Đây là sản phẩm phục nhầm mục đích phục vụ cho môn học Thái độ sống 3 - TDTU
+                Đây là sản phẩm nhầm mục đích phục vụ cho môn học Thái độ sống 3 - TDTU
 <!--                <form class="form-contact contact_form"-->
 <!--                      action="https://preview.colorlib.com/theme/startup2/contact_process.php" method="post"-->
 <!--                      id="contactForm" novalidate="novalidate">-->
@@ -175,6 +173,33 @@
 
     gtag('config', 'UA-23581568-13');
 </script>
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>
+    window.fbAsyncInit = function () {
+        FB.init({
+            xfbml: true,
+            version: 'v9.0'
+        });
+    };
+
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your Chat Plugin code -->
+<div class="fb-customerchat"
+     attribution=setup_tool
+     page_id="100976415196130"
+     theme_color="#a695c7"
+     logged_in_greeting="TDTU - Ba chấm - Thái độ sống 3 : Chào bạn"
+     logged_out_greeting="TDTU - Ba chấm - Thái độ sống 3 : Chào bạn">
+</div>
 </body>
 
 <!-- Mirrored from preview.colorlib.com/theme/startup2/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 28 Dec 2020 14:19:12 GMT -->

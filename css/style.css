@@ -1852,6 +1852,9 @@ h3 {
 
 .breadcam_bg_3 {
     background-image: url(../img/banner/bradcam_3.png)
+}.breadcam_bg_contact {
+    background-position: center!important;
+    background-image: url(../img/blog/dulichlagi/header-Contact-us.jpg)
 }
 .breadcam_bg_dulichlagi {
     background-image: url(../img/blog/dulichlagi/anhbia.jpg);
