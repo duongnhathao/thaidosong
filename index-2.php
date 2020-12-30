@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="TRANG CHỦ">
     <meta property="og:description" content="Life Skills: Thái Độ Sống 3 - Ba Chấm Team">
-    <meta property="og:image" content="img/portfolio/1.jpg">
+    <meta property="og:image" content="img/banner/banner2-2.jpg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <meta name="twitter:title" content="Thái độ sống 3 - Ba Chấm Team - Trang chủ">
@@ -136,13 +136,13 @@
                             <div class="flip">
                                 <a href="du-lich-la-gi.php" target="_blank" class="wow fadeInUp" data-wow-duration="1s"
                                    data-wow-delay=".7s"">
-                                    <div class="front">Tìm hiểu thêm</div>
-                                    <div class="back">Đi đến trang</div>
+                                <div class="front">Tìm hiểu thêm</div>
+                                <div class="back">Đi đến trang</div>
                                 </a>
                             </div>
                         </div>
-<!--                        <a href="du-lich-la-gi.php" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s"-->
-<!--                           data-wow-delay=".7s">Tìm hiểu thêm</a>-->
+                        <!--                        <a href="du-lich-la-gi.php" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s"-->
+                        <!--                           data-wow-delay=".7s">Tìm hiểu thêm</a>-->
                     </div>
                 </div>
             </div>
