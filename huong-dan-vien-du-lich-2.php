@@ -67,6 +67,12 @@
                     <div class="blog_details">
                         <h2>Hướng dẫn viên du lịch (P2)
                         </h2>
+                        <!-- Your share button code -->
+                        <div class="fb-share-button"
+                             data-href="<?php echo $actual_link = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"; ?>
+" data-layout="button_count" data-size="large"><a target="_blank"
+                                                  href="https://www.facebook.com/sharer/sharer.php?u=<?php echo $actual_link = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"; ?>&amp;src=sdkpreparse"
+                                                  class="fb-xfbml-parse-ignore">Chia sẻ</a></div>
                         <ul class="blog-info-link mt-3 mb-4">
                             <li><a href="#" class="font-italic"><i class="fa fa-calendar "></i> Dec,31 2020</a></li>
 
