@@ -178,13 +178,13 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single_Portfolio wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
                     <div class="portfolio_thumb">
-                        <img src="img/portfolio/2.png" alt="">
+                        <img src="img/blog/dulichlagi/huongdan3.jpg" alt="">
                     </div>
                     <div class="portfolio_hover">
                         <div class="title">
-                            <span>App Design</span>
-                            <h3>Colorlib Mobile App</h3>
-                            <a class="boxed-btn3" href="portfolio_details.php">View</a>
+                            <span>Bài viết</span>
+                            <h3>Các Chuẩn Mực Đạo Đức Nghề Nghiệp HDV</h3>
+                            <a class="boxed-btn3" href="cac-chuan-muc-dao-duc-huong-dan-vien.php">Xem</a>
                         </div>
                     </div>
                 </div>
@@ -192,13 +192,13 @@
             <div class="col-lg-4 col-md-6 col-lg-4">
                 <div class="single_Portfolio wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
                     <div class="portfolio_thumb">
-                        <img src="img/portfolio/3.png" alt="">
+                        <img src="img/blog/dulichlagi/4-phu-1487690518194.jpg" alt="">
                     </div>
                     <div class="portfolio_hover">
                         <div class="title">
-                            <span>App Design</span>
-                            <h3>Colorlib Mobile App</h3>
-                            <a class="boxed-btn3" href="portfolio_details.php">View</a>
+                            <span>Q&A</span>
+                            <h3>Hướng khắc phục ngại hướng dẫn những đoàn khách Việt Nam</h3>
+                            <a class="boxed-btn3" href="q&a-tinh-huong-8.php">View</a>
                         </div>
                     </div>
                 </div>
@@ -206,13 +206,13 @@
             <div class="col-lg-4 col-md-6 col-lg-4">
                 <div class="single_Portfolio wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
                     <div class="portfolio_thumb">
-                        <img src="img/portfolio/4.png" alt="">
+                        <img src="img/blog/dulichlagi/sanphamdulichj2.jpg" alt="">
                     </div>
                     <div class="portfolio_hover">
                         <div class="title">
-                            <span>App Design</span>
-                            <h3>Colorlib Mobile App</h3>
-                            <a class="boxed-btn3" href="portfolio_details.php">View</a>
+                            <span>Bài viết</span>
+                            <h3>Sản Phẩm Du Lịch</h3>
+                            <a class="boxed-btn3" href="san-pham-du-lich.php">Xem</a>
                         </div>
                     </div>
                 </div>
@@ -220,13 +220,13 @@
             <div class="col-lg-4 col-md-6 col-lg-4">
                 <div class="single_Portfolio wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">
                     <div class="portfolio_thumb">
-                        <img src="img/portfolio/5.png" alt="">
+                        <img src="img/blog/dulichlagi/chua-bai-dinh-ninh-binh.jpg" alt="">
                     </div>
                     <div class="portfolio_hover">
                         <div class="title">
-                            <span>App Design</span>
-                            <h3>Colorlib Mobile App</h3>
-                            <a class="boxed-btn3" href="portfolio_details.php">View</a>
+                            <span>Q&A</span>
+                            <h3>Lựa chọn mức độ ưu tiên giữa các công việc?</h3>
+                            <a class="boxed-btn3" href="q&a-tinh-huong-4.php">View</a>
                         </div>
                     </div>
                 </div>

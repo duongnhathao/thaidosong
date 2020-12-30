@@ -50,106 +50,151 @@
         </ul>
     </aside>
     <aside class="single_sidebar_widget popular_post_widget">
-        <h3 class="widget_title">Recent Post</h3>
+        <h3 class="widget_title">Q&A</h3>
         <div class="media post_item">
-            <img src="img/post/post_1.png" alt="post">
+            <img style="max-width: 80px" src="img/blog/dulichlagi/1407953244000-177513283.jpg" alt="post">
             <div class="media-body">
-                <a href="single-blog.php">
-                    <h3>From life was you fish...</h3>
+                <a href="q&a-tinh-huong-1.php" title="Yêu cầu đổi khách sạn">
+                    <h3>Yêu cầu đổi khách sạn</h3>
                 </a>
-                <p>January 12, 2019</p>
+<!--                <p>January 12, 2019</p>-->
             </div>
         </div>
         <div class="media post_item">
-            <img src="img/post/post_2.png" alt="post">
+            <img style="max-width: 80px" src="img/blog/dulichlagi/inrix_research_2019_global_traffic_scorecard_reveals_the_worlds_most_congested_cities_-_frotcom.jpg" alt="post">
             <div class="media-body">
-                <a href="single-blog.php">
-                    <h3>The Amazing Hubble</h3>
+                <a href="q&a-tinh-huong-2.php" title="Đoàn bị kẹt xe trong giờ ăn">
+                    <h3>Đoàn bị kẹt xe trong giờ ăn</h3>
                 </a>
-                <p>02 Hours ago</p>
+<!--                <p>January 12, 2019</p>-->
             </div>
         </div>
         <div class="media post_item">
-            <img src="img/post/post_3.png" alt="post">
+            <img style="max-width: 80px" src="img/blog/dulichlagi/photo-3-1496391643357.jpg" alt="post">
             <div class="media-body">
-                <a href="single-blog.php">
-                    <h3>Astronomy Or Astrology</h3>
+                <a href="q&a-tinh-huong-3.php" title="Khách phát hiện bỏ quên hành lý tại khách sạn">
+                    <h3>Khách phát hiện bỏ quên hành lý tại khách sạn</h3>
                 </a>
-                <p>03 Hours ago</p>
+<!--                <p>January 12, 2019</p>-->
             </div>
         </div>
         <div class="media post_item">
-            <img src="img/post/post_4.png" alt="post">
+            <img style="max-width: 80px" src="img/blog/dulichlagi/business9.jpg" alt="post">
             <div class="media-body">
-                <a href="single-blog.php">
-                    <h3>Asteroids telescope</h3>
+                <a href="q&a-tinh-huong-4.php" title="Lựa chọn mức độ ưu tiên giữa các công việc?">
+                    <h3>Lựa chọn mức độ ưu tiên giữa các công việc?</h3>
                 </a>
-                <p>01 Hours ago</p>
+<!--                <p>January 12, 2019</p>-->
             </div>
         </div>
+        <div class="media post_item">
+            <img style="max-width: 80px" src="img/blog/dulichlagi/golden-brige-innoviet-best-places-to-travel-by-tour-guide.jpg" alt="post">
+            <div class="media-body">
+                <a href="q&a-tinh-huong-5.php" title="Lúng túng khi hướng dẫn một đoàn khách Việt Nam">
+                    <h3>Lúng túng khi hướng dẫn một đoàn khách Việt Nam</h3>
+                </a>
+<!--                <p>January 12, 2019</p>-->
+            </div>
+        </div>
+        <div class="media post_item">
+            <img style="max-width: 80px" src="img/blog/dulichlagi/chua-bai-dinh-ninh-binh.jpg" alt="post">
+            <div class="media-body">
+                <a href="q&a-tinh-huong-6.php" title="Làm gì để nội dung tham quan các chùa không bị đơn điệu làm khách nhàm chán?">
+                    <h3>Làm gì để nội dung tham quan các chùa không bị đơn điệu làm khách nhàm chán?</h3>
+                </a>
+<!--                <p>January 12, 2019</p>-->
+            </div>
+        </div>
+        <div class="media post_item">
+            <img style="max-width: 80px" src="img/blog/dulichlagi/4.2.TP.HCM__c_ap_nhat_kien_thuc.jpg" alt="post">
+            <div class="media-body">
+                <a href="q&a-tinh-huong-7.php" title="Để thành công trong công tác hướng dẫn một đoàn khách Việt Nam hướng dẫn viên cần có hoạt náo tốt?">
+                    <h3>Để thành công trong công tác hướng dẫn một đoàn khách Việt Nam hướng dẫn viên cần có hoạt náo tốt?</h3>
+                </a>
+<!--                <p>January 12, 2019</p>-->
+            </div>
+        </div>
+        <div class="media post_item">
+            <img style="max-width: 80px" src="img/blog/dulichlagi/nhung-dieu-can-biet-ve-nghe-huong-dan-vien-du-lich-04.jpg" alt="post">
+            <div class="media-body">
+                <a href="q&a-tinh-huong-8.php" title="Ngại hướng dẫn những đoàn khách Việt Nam">
+                    <h3>Hướng khắc phục ngại hướng dẫn những đoàn khách Việt Nam</h3>
+                </a>
+<!--                <p>January 12, 2019</p>-->
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
     </aside>
-    <aside class="single_sidebar_widget tag_cloud_widget">
-        <h4 class="widget_title">Tag Clouds</h4>
-        <ul class="list">
-            <li>
-                <a href="#">project</a>
-            </li>
-            <li>
-                <a href="#">love</a>
-            </li>
-            <li>
-                <a href="#">technology</a>
-            </li>
-            <li>
-                <a href="#">travel</a>
-            </li>
-            <li>
-                <a href="#">restaurant</a>
-            </li>
-            <li>
-                <a href="#">life style</a>
-            </li>
-            <li>
-                <a href="#">design</a>
-            </li>
-            <li>
-                <a href="#">illustration</a>
-            </li>
-        </ul>
-    </aside>
-    <aside class="single_sidebar_widget instagram_feeds">
-        <h4 class="widget_title">Instagram Feeds</h4>
-        <ul class="instagram_row flex-wrap">
-            <li>
-                <a href="#">
-                    <img class="img-fluid" src="img/post/post_5.png" alt="">
-                </a>
-            </li>
-            <li>
-                <a href="#">
-                    <img class="img-fluid" src="img/post/post_6.png" alt="">
-                </a>
-            </li>
-            <li>
-                <a href="#">
-                    <img class="img-fluid" src="img/post/post_7.png" alt="">
-                </a>
-            </li>
-            <li>
-                <a href="#">
-                    <img class="img-fluid" src="img/post/post_8.png" alt="">
-                </a>
-            </li>
-            <li>
-                <a href="#">
-                    <img class="img-fluid" src="img/post/post_9.png" alt="">
-                </a>
-            </li>
-            <li>
-                <a href="#">
-                    <img class="img-fluid" src="img/post/post_10.png" alt="">
-                </a>
-            </li>
-        </ul>
-    </aside>
+<!--    <aside class="single_sidebar_widget tag_cloud_widget">-->
+<!--        <h4 class="widget_title">Tag Clouds</h4>-->
+<!--        <ul class="list">-->
+<!--            <li>-->
+<!--                <a href="#">project</a>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--                <a href="#">love</a>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--                <a href="#">technology</a>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--                <a href="#">travel</a>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--                <a href="#">restaurant</a>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--                <a href="#">life style</a>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--                <a href="#">design</a>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--                <a href="#">illustration</a>-->
+<!--            </li>-->
+<!--        </ul>-->
+<!--    </aside>-->
+<!--    <aside class="single_sidebar_widget instagram_feeds">-->
+<!--        <h4 class="widget_title">Instagram Feeds</h4>-->
+<!--        <ul class="instagram_row flex-wrap">-->
+<!--            <li>-->
+<!--                <a href="#">-->
+<!--                    <img class="img-fluid" src="img/post/post_5.png" alt="">-->
+<!--                </a>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--                <a href="#">-->
+<!--                    <img class="img-fluid" src="img/post/post_6.png" alt="">-->
+<!--                </a>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--                <a href="#">-->
+<!--                    <img class="img-fluid" src="img/post/post_7.png" alt="">-->
+<!--                </a>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--                <a href="#">-->
+<!--                    <img class="img-fluid" src="img/post/post_8.png" alt="">-->
+<!--                </a>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--                <a href="#">-->
+<!--                    <img class="img-fluid" src="img/post/post_9.png" alt="">-->
+<!--                </a>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--                <a href="#">-->
+<!--                    <img class="img-fluid" src="img/post/post_10.png" alt="">-->
+<!--                </a>-->
+<!--            </li>-->
+<!--        </ul>-->
+<!--    </aside>-->
 </div>
