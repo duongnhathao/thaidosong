@@ -555,7 +555,7 @@
             <div class="col-lg-6">
                 <div class="section_title text-center mb-90">
                     <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Liên lạc với chúng tôi</h3>
-                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Điền thông tin vào bên dưới hoặc nhắn tin thông qua mục tin nhắn ở góc phải. Chúng tôi sẽ liên lạc với bại trong thời gian sớm nhất</p>
+                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Điền thông tin vào bên dưới hoặc nhắn tin thông qua mục tin nhắn ở góc phải. Chúng tôi sẽ liên lạc với bạn trong thời gian sớm nhất</p>
                 </div>
             </div>
         </div>
