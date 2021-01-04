@@ -347,9 +347,7 @@
                         <div class="team_hover">
                             <div class="hover_inner text-center">
                                 <ul>
-                                    <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
-                                    <li><a href="#"> <i class="fa fa-linkedin"></i> </a></li>
-                                    <li><a href="#"> <i class="fa fa-google-plus"></i> </a></li>
+                                    <li><a href="https://www.facebook.com/dell692/"> <i class="fa fa-facebook"></i> </a></li>
                                 </ul>
                             </div>
                         </div>
