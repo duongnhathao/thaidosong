@@ -39,7 +39,7 @@
 <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade
     your browser</a> to improve your experience and security.</p>
 <![endif]-->
-<?php include "header.php"?>
+<?php include "header.php" ?>
 
 
 <div class="slider_area">
@@ -55,10 +55,12 @@
                         <!--                        <a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s"-->
                         <!--                           href="portfolio-2.php">Visit Our Works</a>-->
                         <a class=" wow fadeInLeft cta" data-wow-duration="1s" data-wow-delay=".2s"
-                           href="blog.php"><span>Tìm hiểu thêm</span><svg width="13px" height="10px" style="color: white" viewBox="0 0 13 10">
+                           href="blog.php"><span>Tìm hiểu thêm</span>
+                            <svg width="13px" height="10px" style="color: white" viewBox="0 0 13 10">
                                 <path d="M1,5 L11,5"></path>
                                 <polyline points="8 1 12 5 8 9"></polyline>
-                            </svg></a>
+                            </svg>
+                        </a>
 
 
                     </div>
@@ -132,7 +134,7 @@
                             đáp ứng nhu cầu tham quan, tìm hiểu, giải trí, nghỉ dưỡng trong một khoảng thời gian nhất
                             định”</p>
 
-                        <div >
+                        <div>
                             <div class="flip">
                                 <a href="du-lich-la-gi.php" target="_blank" class="wow fadeInUp" data-wow-duration="1s"
                                    data-wow-delay=".7s"">
@@ -156,7 +158,8 @@
             <div class="col-lg-6">
                 <div class="section_title text-center mb-90">
                     <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Các bài viết phổ biến</h3>
-                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Tổng hợp một số kiến thức cơ bản và một số tình huống và cách xữ lý</p>
+                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Tổng hợp một số kiến thức cơ bản
+                        và một số tình huống và cách xữ lý</p>
                 </div>
             </div>
         </div>
@@ -242,8 +245,11 @@
                 <div class="work_info">
                     <div class="section_title">
                         <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Quá trình làm việc</h3>
-                        <p class="mid_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">“ Đây là video quay lại quá trình làm việc của team ”</p>
-                        <p class="last_p wow fadeInRight" data-wow-duration="1s" data-wow-delay=".5s">Do trong quá trình thực hiện môn học nằm trong giai đoạn bùng phát COVID-19 nên team sử dụng các biện pháp họp mặt online.</p>
+                        <p class="mid_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">“ Đây là video
+                            quay lại quá trình làm việc của team ”</p>
+                        <p class="last_p wow fadeInRight" data-wow-duration="1s" data-wow-delay=".5s">Do trong quá trình
+                            thực hiện môn học nằm trong giai đoạn bùng phát COVID-19 nên team sử dụng các biện pháp họp
+                            mặt online.</p>
                     </div>
                     <div class="video_watch d-flex align-items-center">
                         <div class="play_btn wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
@@ -263,9 +269,9 @@
         <div class="row justify-content-center">
             <div class="col-lg-6">
                 <div class="section_title text-center mb-90">
-                    <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Our Creative Team</h3>
-                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">Tour function information
-                        without cross action media value quickly maximize timely deliverables.</p>
+                    <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Thông tin thành viên</h3>
+                    <!--                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">Tour function information-->
+                    <!--                        without cross action media value quickly maximize timely deliverables.</p>-->
                 </div>
             </div>
         </div>
@@ -273,67 +279,71 @@
             <div class="col-lg-3 col-md-6">
                 <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                     <div class="team_thumb">
-                        <img src="img/team/1.jpg" alt="">
+                        <img src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.15752-9/135852909_757622358464653_6277357571068948370_n.jpg?_nc_cat=103&ccb=2&_nc_sid=ae9488&_nc_ohc=P_UoK-Zu1qgAX9zt9HS&_nc_ht=scontent.fsgn2-2.fna&oh=71b861ee6dd165b38b163928f8567238&oe=601A496F"
+                             alt="">
                         <div class="team_hover">
                             <div class="hover_inner text-center">
                                 <ul>
-                                    <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
-                                    <li><a href="#"> <i class="fa fa-twitter"></i> </a></li>
-                                    <li><a href="#"> <i class="fa fa-instagram"></i> </a></li>
+                                    <li><a href="https://www.facebook.com/profile.php?id=100010927722949"> <i
+                                                class="fa fa-facebook"></i> </a></li>
+
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <div class="team_title text-center">
-                        <h3>Brandon Yeald</h3>
-                        <p>Founder & CEO</p>
+                        <h3>Trương Thị Thanh Vy</h3>
+                        <p>Leader</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
                     <div class="team_thumb">
-                        <img src="img/team/2.png" alt="">
+                        <img src="https://scontent.fsgn2-5.fna.fbcdn.net/v/t1.0-9/35439086_985286231648472_7165794784643121152_o.jpg?_nc_cat=102&ccb=2&_nc_sid=174925&_nc_ohc=QGVjGQdMoyoAX-CvBac&_nc_ht=scontent.fsgn2-5.fna&oh=345e761dd5ca9502bdb7bd825db6d641&oe=601702B3"
+                             alt="">
                         <div class="team_hover">
                             <div class="hover_inner text-center">
                                 <ul>
-                                    <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
-                                    <li><a href="#"> <i class="fa fa-linkedin"></i> </a></li>
-                                    <li><a href="#"> <i class="fa fa-google-plus"></i> </a></li>
+                                    <li><a href="https://www.facebook.com/haonhatt1712"> <i class="fa fa-facebook"></i>
+                                        </a></li>
+
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <div class="team_title text-center">
-                        <h3>Calvin Anderson</h3>
-                        <p>Graphics Designer</p>
+                        <h3>Dương Nhật Hào</h3>
+                        <p>Developer</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
                     <div class="team_thumb">
-                        <img src="img/team/3.png" alt="">
+                        <img src="https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/130464525_2769584199977531_5083729107065521382_n.jpg?_nc_cat=101&ccb=2&_nc_sid=09cbfe&_nc_ohc=dAGtphBE6ZAAX_VwNXU&_nc_oc=AQlWeLkOJMMVNAb9SJD_iilmMbYJo56YXkNdH5gKskdjh_-EV-gMkTny0DHW31iUea8&_nc_ht=scontent.fsgn2-4.fna&oh=ee100ae80d379f2b22a1c373f7185d87&oe=60179ED9"
+                             alt="">
                         <div class="team_hover">
                             <div class="hover_inner text-center">
                                 <ul>
-                                    <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
-                                    <li><a href="#"> <i class="fa fa-linkedin"></i> </a></li>
-                                    <li><a href="#"> <i class="fa fa-google-plus"></i> </a></li>
+                                    <li><a href="https://www.facebook.com/TamSky.tg/"> <i class="fa fa-facebook"></i>
+                                        </a></li>
+
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <div class="team_title text-center">
-                        <h3>Roman Solo</h3>
-                        <p>Wordpress Developer</p>
+                        <h3>Dương Thiện Tâm</h3>
+                        <p>Copywriter</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">
                     <div class="team_thumb">
-                        <img src="img/team/4.png" alt="">
+                        <img src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/66209558_2873028676255061_4681359252781006848_o.jpg?_nc_cat=103&cb=846ca55b-311e05c7&ccb=2&_nc_sid=09cbfe&_nc_ohc=w9OwONIu6r8AX_w0AYs&_nc_ht=scontent.fsgn2-2.fna&oh=e602514e8b3cc3a9f152dc76b79c10ec&oe=6016E342"
+                             alt="">
                         <div class="team_hover">
                             <div class="hover_inner text-center">
                                 <ul>
@@ -345,8 +355,132 @@
                         </div>
                     </div>
                     <div class="team_title text-center">
-                        <h3>Yeald Kin</h3>
-                        <p>Software Engineer</p>
+                        <h3>Nguyễn Thành Đạt</h3>
+                        <p>Copywriter</p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">
+                    <div class="team_thumb">
+                        <img src="https://scontent.fsgn2-5.fna.fbcdn.net/v/t1.0-9/124279490_2731381577102220_1430689897490174033_o.jpg?_nc_cat=104&ccb=2&_nc_sid=09cbfe&_nc_ohc=Qf8Xuosx_08AX-rljx-&_nc_ht=scontent.fsgn2-5.fna&oh=13071a66c3950c3b2139c26f331c4dca&oe=6018D9D0"
+                             alt="">
+                        <div class="team_hover">
+                            <div class="hover_inner text-center">
+                                <ul>
+                                    <li><a href="https://www.facebook.com/minh.dung.39750"> <i class="fa fa-facebook"></i> </a></li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team_title text-center">
+                        <h3>Dương Minh Dũng</h3>
+                        <p>Copywriter</p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">
+                    <div class="team_thumb">
+                        <img src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/127178578_2701991856708728_9011289365086311249_o.jpg?_nc_cat=103&ccb=2&_nc_sid=09cbfe&_nc_ohc=B6jIU5gg_V4AX__m7V9&_nc_ht=scontent.fsgn2-2.fna&oh=d817af8e6c552bf6755f3d759cc5cf21&oe=60192446"
+                             alt="">
+                        <div class="team_hover">
+                            <div class="hover_inner text-center">
+                                <ul>
+                                    <li><a href="https://www.facebook.com/nguynquangduy99/"> <i class="fa fa-facebook"></i> </a></li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team_title text-center">
+                        <h3>Nguyễn Quang Duy</h3>
+                        <p>Copywriter</p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">
+                    <div class="team_thumb">
+                        <img src="https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-9/37904282_2160953337506969_1817012509010296832_o.jpg?_nc_cat=108&ccb=2&_nc_sid=09cbfe&_nc_ohc=m2ziVOhAN54AX_gOzt3&_nc_ht=scontent.fsgn2-3.fna&oh=29f69e4820f739488b056a6f4aa12842&oe=60182130"
+                             alt="">
+                        <div class="team_hover">
+                            <div class="hover_inner text-center">
+                                <ul>
+                                    <li><a href="https://www.facebook.com/hiuclockhaunguyen.hiuclockhaunguyen/"> <i class="fa fa-facebook"></i> </a></li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team_title text-center">
+                        <h3>Nguyễn Hồng Hậu</h3>
+                        <p>Copywriter</p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">
+                    <div class="team_thumb">
+                        <img src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/127585040_2808521742808147_6117625076359411672_o.jpg?_nc_cat=111&ccb=2&_nc_sid=09cbfe&_nc_ohc=4PYQ9MVB3qYAX_xyq_v&_nc_ht=scontent.fsgn2-2.fna&oh=ad71d8e3ba2857bfc31a037f9b561459&oe=601ABDAD"
+                             alt="">
+                        <div class="team_hover">
+                            <div class="hover_inner text-center">
+                                <ul>
+                                    <li><a href="https://www.facebook.com/tan8tuoi/"> <i class="fa fa-facebook"></i> </a></li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team_title text-center">
+                        <h3>Trương Hồ Duy Tân</h3>
+                        <p>Copywriter</p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">
+                    <div class="team_thumb">
+                        <img src="https://scontent.fsgn2-5.fna.fbcdn.net/v/t1.0-9/133823391_1366657387008563_2210331767195525430_n.jpg?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_ohc=ZONGNtng9_EAX9VIwqp&_nc_ht=scontent.fsgn2-5.fna&oh=7fd863f430f24ed4b075cabfb7b25a50&oe=6017461B"
+                             alt="">
+                        <div class="team_hover">
+                            <div class="hover_inner text-center">
+                                <ul>
+                                    <li><a href="https://www.facebook.com/Lythanhdat777/"> <i class="fa fa-facebook"></i> </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team_title text-center">
+                        <h3>Lý Thành Đạt </h3>
+                        <p>Copywriter</p>
+
+                    </div>
+                </div>
+            </div><div class="col-lg-3 col-md-6">
+                <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">
+                    <div class="team_thumb">
+                        <img src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-1/s200x200/89060027_514689316129908_8046864938385276928_n.jpg?_nc_cat=111&ccb=2&_nc_sid=7206a8&_nc_ohc=p-WRNADHSDsAX9d3xwM&_nc_ht=scontent.fsgn2-2.fna&tp=7&oh=8843b009d13a6d5620a80938d5854911&oe=6017E9EE"
+                             alt="">
+                        <div class="team_hover">
+                            <div class="hover_inner text-center">
+                                <ul>
+                                    <li><a href="https://www.facebook.com/cole.blood.92/"> <i class="fa fa-facebook"></i> </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team_title text-center">
+                        <h3>Trương Hồng Lộc</h3>
+                        <p>Copywriter</p>
+
                     </div>
                 </div>
             </div>
@@ -467,7 +601,6 @@
 </div>
 
 <?php include 'footer.php'; ?>
-
 
 
 <script src="js/vendor/modernizr-3.5.0.min.js"></script>
