@@ -265,7 +265,7 @@
                 <div class="section_title text-center mb-90">
                     <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Our Creative Team</h3>
                     <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">Tour function information
-                        without cross action media value quickly maximize timely deliverables.</p>
+                        without cross action media value quickly maximize timely deliverables.</p>    
                 </div>
             </div>
         </div>
