@@ -497,15 +497,12 @@
                             <div class="quote">
                                 <img src="img/testmonial/quote.svg" alt="">
                             </div>
-                            <p>Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor <br>
-                                sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed neque. <br>
-                                Fusce ac mattis nulla. Morbi eget ornare dui. </p>
+                            <p>Hai mươi năm sau bạn sẽ cảm thấy thất vọng bởi những điều mình đã không làm hơn là những điều mình đã làm. Vì vậy hãy giương buồm lên và đi ra khỏi bến cảng an toàn của mình đi. Thám hiểm. Mơ mộng. Khám phá </p>
                             <div class="testmonial_author">
                                 <div class="thumb">
                                     <img src="img/testmonial/thumb.png" alt="">
                                 </div>
-                                <h3>Robert Thomson</h3>
-                                <span>Business Owner</span>
+                                <h3>Mark Twain</h3>
                             </div>
                         </div>
                     </div>
@@ -514,15 +511,12 @@
                             <div class="quote">
                                 <img src="img/testmonial/quote.svg" alt="">
                             </div>
-                            <p>Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor <br>
-                                sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed neque. <br>
-                                Fusce ac mattis nulla. Morbi eget ornare dui. </p>
+                            <p>Du hành dạy cho bạn biết khiêm tốn, thấy được mình chỉ là một thực thế nhỏ bé trong thế giới rộng lớn này.</p>
                             <div class="testmonial_author">
                                 <div class="thumb">
                                     <img src="img/testmonial/thumb.png" alt="">
                                 </div>
-                                <h3>Robert Thomson</h3>
-                                <span>Business Owner</span>
+                                <h3>Gustave Flaubert</h3>
                             </div>
                         </div>
                     </div>
@@ -531,15 +525,12 @@
                             <div class="quote">
                                 <img src="img/testmonial/quote.svg" alt="">
                             </div>
-                            <p>Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor <br>
-                                sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed neque. <br>
-                                Fusce ac mattis nulla. Morbi eget ornare dui. </p>
+                            <p>Một điểm đến không bao giờ là một nơi chốn, mà là một cách thức khác để chiêm nghiệm nhiều điều. </p>
                             <div class="testmonial_author">
                                 <div class="thumb">
                                     <img src="img/testmonial/thumb.png" alt="">
                                 </div>
-                                <h3>Robert Thomson</h3>
-                                <span>Business Owner</span>
+                                <h3>Henry Miller</h3>
                             </div>
                         </div>
                     </div>
