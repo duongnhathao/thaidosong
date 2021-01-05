@@ -253,8 +253,8 @@
                     </div>
                     <div class="video_watch d-flex align-items-center">
                         <div class="play_btn wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
-                            <a href="https://youtu.be/ku1StNnNkvI"
-                               class="video_icon popup-video"> <i class="fa fa-play"></i> </a>
+                            <a href="https://www.youtube.com/watch?v=ku1StNnNkvI&fbclid=IwAR2h7hZ6LGNqAbpnsHG49oI7uxOpdSDe8akAEgBLA-i32RBWDkgfyYmMjE8"
+                                target="_blank"> <i class="fa fa-play"></i> </a>
                         </div>
                         <span class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".7s"> Xem</span>
                     </div>
